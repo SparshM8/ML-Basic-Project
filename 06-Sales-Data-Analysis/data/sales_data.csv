@@ -1,0 +1,1808 @@
+Date,Category,Region,Quantity,UnitPrice,TotalSales,PaymentMethod
+2024-01-01,Sports,East,5,66.71,333.57,Net Banking
+2024-01-01,Electronics,East,5,486.46,2432.3,UPI
+2024-01-01,Clothing,South,4,59.61,238.42,Credit Card
+2024-01-01,Electronics,South,3,222.11,666.32,Debit Card
+2024-01-01,Clothing,South,1,83.71,83.71,Net Banking
+2024-01-01,Clothing,East,5,29.74,148.68,Net Banking
+2024-01-02,Home & Kitchen,North,2,181.07,362.14,Debit Card
+2024-01-02,Electronics,East,1,482.53,482.53,Net Banking
+2024-01-02,Sports,West,5,121.53,607.65,Net Banking
+2024-01-02,Electronics,West,3,139.48,418.44,Debit Card
+2024-01-03,Electronics,East,4,198.9,795.62,Credit Card
+2024-01-03,Home & Kitchen,East,1,172.8,172.8,Debit Card
+2024-01-03,Electronics,East,2,61.44,122.88,Credit Card
+2024-01-03,Clothing,South,5,32.26,161.3,Credit Card
+2024-01-04,Sports,North,1,135.41,135.41,UPI
+2024-01-04,Clothing,East,1,24.35,24.35,Net Banking
+2024-01-04,Books,East,3,23.5,70.51,UPI
+2024-01-04,Clothing,West,1,20.52,20.52,Net Banking
+2024-01-04,Home & Kitchen,North,1,93.99,93.99,Credit Card
+2024-01-04,Home & Kitchen,South,5,63.57,317.85,UPI
+2024-01-05,Electronics,South,5,334.54,1672.69,Net Banking
+2024-01-05,Clothing,South,5,42.71,213.53,Net Banking
+2024-01-05,Clothing,East,1,47.87,47.87,Net Banking
+2024-01-05,Electronics,East,2,166.07,332.15,Debit Card
+2024-01-05,Electronics,West,4,301.23,1204.93,UPI
+2024-01-06,Books,South,1,45.94,45.94,Net Banking
+2024-01-06,Electronics,South,3,488.15,1464.45,Credit Card
+2024-01-06,Sports,West,4,131.15,524.61,Credit Card
+2024-01-06,Home & Kitchen,North,4,65.08,260.33,Net Banking
+2024-01-06,Clothing,West,3,57.72,173.17,Debit Card
+2024-01-07,Clothing,West,1,99.54,99.54,Debit Card
+2024-01-07,Home & Kitchen,North,5,193.45,967.26,Net Banking
+2024-01-07,Clothing,East,3,62.33,186.98,Credit Card
+2024-01-07,Electronics,West,2,164.37,328.75,Debit Card
+2024-01-07,Home & Kitchen,East,2,176.07,352.15,Credit Card
+2024-01-07,Clothing,North,1,48.73,48.73,Net Banking
+2024-01-07,Home & Kitchen,West,3,71.58,214.73,Debit Card
+2024-01-08,Electronics,East,3,107.18,321.53,UPI
+2024-01-08,Electronics,North,4,235.11,940.44,Net Banking
+2024-01-08,Home & Kitchen,East,3,24.56,73.69,Credit Card
+2024-01-08,Home & Kitchen,North,2,63.16,126.32,Credit Card
+2024-01-08,Sports,North,5,55.97,279.83,Net Banking
+2024-01-08,Clothing,North,1,22.8,22.8,UPI
+2024-01-09,Clothing,South,5,29.72,148.61,UPI
+2024-01-09,Home & Kitchen,South,2,174.17,348.34,Net Banking
+2024-01-09,Electronics,East,1,440.24,440.24,UPI
+2024-01-09,Electronics,North,3,473.66,1420.98,Debit Card
+2024-01-09,Electronics,East,2,67.53,135.07,UPI
+2024-01-09,Home & Kitchen,South,3,145.41,436.24,UPI
+2024-01-09,Home & Kitchen,North,1,122.33,122.33,Credit Card
+2024-01-10,Clothing,East,5,72.79,363.93,Net Banking
+2024-01-10,Clothing,West,1,91.12,91.12,Net Banking
+2024-01-10,Electronics,East,4,308.05,1232.19,Net Banking
+2024-01-10,Home & Kitchen,West,1,195.36,195.36,Credit Card
+2024-01-10,Home & Kitchen,North,3,157.07,471.22,Debit Card
+2024-01-10,Electronics,North,2,228.49,456.99,Net Banking
+2024-01-11,Clothing,West,1,44.77,44.77,Credit Card
+2024-01-11,Home & Kitchen,South,3,22.04,66.13,UPI
+2024-01-11,Electronics,North,1,384.9,384.9,Debit Card
+2024-01-11,Electronics,North,5,483.45,2417.25,UPI
+2024-01-11,Clothing,East,5,74.11,370.55,Net Banking
+2024-01-11,Electronics,North,3,455.52,1366.56,Credit Card
+2024-01-11,Clothing,West,2,54.41,108.83,Credit Card
+2024-01-12,Electronics,East,1,175.89,175.89,UPI
+2024-01-12,Electronics,South,3,376.57,1129.72,UPI
+2024-01-12,Electronics,East,1,399.92,399.92,Net Banking
+2024-01-13,Sports,East,5,34.42,172.1,Credit Card
+2024-01-13,Home & Kitchen,North,5,158.42,792.09,Debit Card
+2024-01-13,Electronics,South,1,479.32,479.32,Credit Card
+2024-01-14,Electronics,East,2,284.14,568.28,UPI
+2024-01-14,Home & Kitchen,South,1,95.7,95.7,Debit Card
+2024-01-14,Books,East,4,32.19,128.77,UPI
+2024-01-14,Home & Kitchen,North,1,131.98,131.98,UPI
+2024-01-14,Electronics,West,2,396.01,792.03,Credit Card
+2024-01-14,Electronics,East,3,84.14,252.42,Net Banking
+2024-01-15,Electronics,West,3,443.44,1330.33,Credit Card
+2024-01-15,Books,South,2,28.43,56.86,Net Banking
+2024-01-15,Clothing,South,5,22.84,114.22,UPI
+2024-01-15,Electronics,West,1,174.59,174.59,Credit Card
+2024-01-15,Clothing,South,2,60.16,120.32,UPI
+2024-01-15,Electronics,East,3,289.45,868.35,Debit Card
+2024-01-16,Home & Kitchen,West,1,116.36,116.36,UPI
+2024-01-16,Clothing,South,1,22.39,22.39,Debit Card
+2024-01-16,Clothing,East,1,91.47,91.47,UPI
+2024-01-17,Sports,North,5,60.64,303.18,UPI
+2024-01-17,Electronics,East,3,286.03,858.09,Credit Card
+2024-01-17,Sports,West,1,91.88,91.88,Debit Card
+2024-01-17,Clothing,North,5,42.51,212.56,Net Banking
+2024-01-17,Electronics,South,5,277.75,1388.73,UPI
+2024-01-17,Clothing,North,2,42.4,84.8,Debit Card
+2024-01-17,Books,East,3,48.6,145.8,Debit Card
+2024-01-18,Sports,West,3,128.49,385.48,Debit Card
+2024-01-18,Books,West,3,30.92,92.77,UPI
+2024-01-18,Books,North,3,33.1,99.3,UPI
+2024-01-18,Clothing,South,5,68.06,340.3,UPI
+2024-01-18,Clothing,West,5,78.02,390.12,Net Banking
+2024-01-19,Electronics,East,4,306.45,1225.8,Credit Card
+2024-01-19,Electronics,West,4,228.78,915.12,Credit Card
+2024-01-19,Home & Kitchen,East,3,127.83,383.48,Debit Card
+2024-01-19,Clothing,South,2,28.03,56.07,Net Banking
+2024-01-19,Electronics,West,4,96.0,383.98,Debit Card
+2024-01-19,Books,East,1,47.02,47.02,UPI
+2024-01-19,Electronics,North,4,106.1,424.39,UPI
+2024-01-20,Clothing,North,2,15.39,30.79,Credit Card
+2024-01-20,Sports,South,2,139.09,278.19,Debit Card
+2024-01-20,Electronics,North,4,238.52,954.07,Debit Card
+2024-01-20,Electronics,North,1,482.48,482.48,Credit Card
+2024-01-20,Clothing,North,5,51.28,256.39,Net Banking
+2024-01-20,Home & Kitchen,North,3,101.59,304.78,UPI
+2024-01-20,Clothing,South,4,88.25,353.01,Debit Card
+2024-01-21,Clothing,East,4,88.69,354.78,Debit Card
+2024-01-21,Electronics,East,1,409.96,409.96,Credit Card
+2024-01-21,Electronics,South,3,483.19,1449.58,Net Banking
+2024-01-21,Electronics,South,1,143.55,143.55,Debit Card
+2024-01-22,Sports,North,3,103.02,309.06,Net Banking
+2024-01-22,Clothing,South,2,33.66,67.32,Credit Card
+2024-01-22,Home & Kitchen,East,1,153.5,153.5,UPI
+2024-01-22,Electronics,South,4,109.52,438.1,Debit Card
+2024-01-23,Books,North,2,18.26,36.51,UPI
+2024-01-23,Electronics,North,3,318.84,956.51,Debit Card
+2024-01-23,Clothing,West,2,45.08,90.16,UPI
+2024-01-23,Books,North,3,21.88,65.65,Credit Card
+2024-01-23,Clothing,East,5,37.94,189.71,Net Banking
+2024-01-23,Books,East,3,13.01,39.02,Credit Card
+2024-01-23,Clothing,East,2,21.45,42.91,Net Banking
+2024-01-24,Electronics,North,3,462.79,1388.37,Net Banking
+2024-01-24,Clothing,West,5,76.55,382.74,Debit Card
+2024-01-24,Home & Kitchen,East,1,147.0,147.0,UPI
+2024-01-24,Home & Kitchen,South,5,40.75,203.75,Debit Card
+2024-01-25,Books,South,2,32.43,64.85,Debit Card
+2024-01-25,Books,East,2,31.58,63.16,Net Banking
+2024-01-25,Clothing,South,5,34.8,174.01,Credit Card
+2024-01-25,Books,North,3,13.54,40.63,UPI
+2024-01-25,Clothing,West,4,80.3,321.21,Net Banking
+2024-01-25,Electronics,East,2,183.34,366.68,Credit Card
+2024-01-26,Electronics,North,4,148.21,592.86,Net Banking
+2024-01-26,Books,South,3,12.6,37.8,Net Banking
+2024-01-26,Books,South,3,18.82,56.46,Credit Card
+2024-01-27,Books,North,1,20.41,20.41,Credit Card
+2024-01-27,Clothing,North,3,34.08,102.23,Net Banking
+2024-01-27,Home & Kitchen,South,1,105.8,105.8,Debit Card
+2024-01-27,Electronics,East,1,297.89,297.89,Net Banking
+2024-01-27,Home & Kitchen,South,5,33.7,168.52,UPI
+2024-01-28,Sports,East,2,133.52,267.04,Net Banking
+2024-01-28,Electronics,East,1,200.3,200.3,Debit Card
+2024-01-28,Electronics,North,5,442.33,2211.65,Debit Card
+2024-01-28,Home & Kitchen,East,4,66.56,266.26,UPI
+2024-01-28,Clothing,North,2,60.9,121.8,Credit Card
+2024-01-28,Clothing,West,4,94.22,376.89,UPI
+2024-01-28,Electronics,East,1,396.94,396.94,Net Banking
+2024-01-29,Books,West,5,25.34,126.72,Debit Card
+2024-01-29,Books,East,3,28.74,86.22,Debit Card
+2024-01-29,Electronics,North,5,362.16,1810.79,Debit Card
+2024-01-29,Electronics,North,4,64.09,256.34,UPI
+2024-01-30,Electronics,East,1,194.33,194.33,Debit Card
+2024-01-30,Home & Kitchen,South,4,53.39,213.58,Debit Card
+2024-01-30,Books,South,4,46.47,185.89,UPI
+2024-01-30,Electronics,East,1,323.29,323.29,Credit Card
+2024-01-30,Home & Kitchen,North,2,101.94,203.88,Credit Card
+2024-01-31,Clothing,East,3,88.11,264.33,UPI
+2024-01-31,Electronics,North,1,306.91,306.91,Net Banking
+2024-01-31,Books,South,1,11.33,11.33,Net Banking
+2024-01-31,Clothing,South,2,83.05,166.1,UPI
+2024-02-01,Electronics,East,1,471.3,471.3,UPI
+2024-02-01,Home & Kitchen,South,3,119.54,358.62,Net Banking
+2024-02-01,Clothing,East,4,21.94,87.75,Credit Card
+2024-02-01,Books,South,4,11.75,46.99,Debit Card
+2024-02-01,Electronics,East,5,498.35,2491.75,UPI
+2024-02-02,Clothing,East,4,96.67,386.67,Credit Card
+2024-02-02,Home & Kitchen,South,4,124.16,496.65,Net Banking
+2024-02-02,Clothing,South,2,70.68,141.35,Debit Card
+2024-02-02,Clothing,South,5,26.18,130.92,Net Banking
+2024-02-02,Electronics,South,5,434.47,2172.37,UPI
+2024-02-02,Clothing,North,2,70.43,140.86,Net Banking
+2024-02-02,Electronics,North,4,108.89,435.57,Net Banking
+2024-02-03,Clothing,West,1,36.14,36.14,UPI
+2024-02-03,Electronics,North,5,210.53,1052.65,Debit Card
+2024-02-03,Books,South,3,31.25,93.74,Net Banking
+2024-02-03,Electronics,East,5,470.24,2351.22,Debit Card
+2024-02-04,Clothing,East,2,97.71,195.43,Debit Card
+2024-02-04,Clothing,South,5,94.88,474.42,Net Banking
+2024-02-04,Home & Kitchen,North,5,139.09,695.47,Net Banking
+2024-02-04,Electronics,South,2,441.01,882.01,Credit Card
+2024-02-04,Home & Kitchen,East,5,82.74,413.72,Debit Card
+2024-02-04,Clothing,North,1,81.5,81.5,Credit Card
+2024-02-04,Clothing,South,3,79.79,239.38,Net Banking
+2024-02-05,Clothing,North,2,74.11,148.23,Net Banking
+2024-02-05,Clothing,West,2,29.32,58.64,UPI
+2024-02-05,Clothing,West,2,17.18,34.36,Net Banking
+2024-02-06,Electronics,West,3,394.2,1182.59,Debit Card
+2024-02-06,Electronics,East,5,454.11,2270.57,Net Banking
+2024-02-06,Clothing,South,5,59.46,297.31,UPI
+2024-02-06,Home & Kitchen,South,2,168.17,336.34,Net Banking
+2024-02-06,Books,East,1,29.34,29.34,Credit Card
+2024-02-06,Home & Kitchen,West,2,134.84,269.67,Credit Card
+2024-02-06,Books,East,2,32.27,64.53,UPI
+2024-02-07,Electronics,East,4,352.14,1408.56,Net Banking
+2024-02-07,Electronics,North,4,438.26,1753.03,Debit Card
+2024-02-07,Home & Kitchen,West,2,30.52,61.04,Debit Card
+2024-02-07,Home & Kitchen,South,2,144.64,289.28,Debit Card
+2024-02-07,Electronics,South,2,457.49,914.97,UPI
+2024-02-07,Clothing,North,1,52.6,52.6,Debit Card
+2024-02-08,Electronics,West,3,289.83,869.49,UPI
+2024-02-08,Home & Kitchen,North,2,124.49,248.97,Debit Card
+2024-02-08,Home & Kitchen,East,2,156.11,312.22,Credit Card
+2024-02-08,Books,West,5,39.49,197.44,UPI
+2024-02-08,Electronics,South,4,330.61,1322.45,Credit Card
+2024-02-08,Books,South,4,13.51,54.02,Credit Card
+2024-02-08,Home & Kitchen,East,4,177.2,708.8,Debit Card
+2024-02-09,Books,South,1,45.12,45.12,Net Banking
+2024-02-09,Books,West,4,16.15,64.61,Debit Card
+2024-02-09,Sports,South,2,85.88,171.77,Net Banking
+2024-02-09,Home & Kitchen,South,5,168.54,842.68,UPI
+2024-02-09,Clothing,West,4,81.02,324.09,Credit Card
+2024-02-09,Books,North,5,25.46,127.29,Net Banking
+2024-02-10,Clothing,South,3,67.66,202.97,UPI
+2024-02-10,Electronics,West,3,129.99,389.98,UPI
+2024-02-10,Electronics,West,5,330.75,1653.77,Net Banking
+2024-02-10,Clothing,North,3,85.34,256.02,Debit Card
+2024-02-11,Electronics,North,5,392.13,1960.65,UPI
+2024-02-11,Electronics,North,2,79.08,158.16,Credit Card
+2024-02-11,Clothing,West,5,27.75,138.77,Debit Card
+2024-02-11,Clothing,West,2,90.83,181.65,Credit Card
+2024-02-12,Books,West,1,28.46,28.46,Credit Card
+2024-02-12,Home & Kitchen,East,1,113.31,113.31,UPI
+2024-02-12,Clothing,North,5,78.43,392.14,Net Banking
+2024-02-13,Sports,North,2,122.98,245.96,Net Banking
+2024-02-13,Clothing,South,5,79.97,399.86,Credit Card
+2024-02-13,Sports,East,1,57.59,57.59,Net Banking
+2024-02-14,Home & Kitchen,South,2,105.38,210.76,Debit Card
+2024-02-14,Sports,West,4,36.88,147.51,Net Banking
+2024-02-14,Clothing,South,2,95.16,190.32,Net Banking
+2024-02-15,Home & Kitchen,East,1,134.49,134.49,UPI
+2024-02-15,Home & Kitchen,South,4,155.57,622.29,Debit Card
+2024-02-15,Home & Kitchen,South,5,58.43,292.16,Credit Card
+2024-02-16,Clothing,North,1,40.29,40.29,Credit Card
+2024-02-16,Home & Kitchen,West,2,153.51,307.02,Credit Card
+2024-02-16,Electronics,West,2,141.82,283.63,UPI
+2024-02-16,Clothing,North,4,87.08,348.34,Credit Card
+2024-02-16,Home & Kitchen,North,4,75.01,300.04,Credit Card
+2024-02-16,Clothing,North,4,33.46,133.85,Net Banking
+2024-02-16,Electronics,South,4,131.59,526.37,UPI
+2024-02-17,Electronics,West,4,302.3,1209.19,UPI
+2024-02-17,Books,North,3,38.31,114.92,Debit Card
+2024-02-17,Clothing,West,4,77.52,310.07,Credit Card
+2024-02-17,Books,East,1,35.45,35.45,Debit Card
+2024-02-17,Electronics,South,4,222.72,890.9,Debit Card
+2024-02-18,Electronics,East,5,363.95,1819.76,Credit Card
+2024-02-18,Electronics,North,5,266.41,1332.04,Credit Card
+2024-02-18,Electronics,East,3,246.58,739.75,UPI
+2024-02-18,Electronics,East,1,480.48,480.48,Net Banking
+2024-02-19,Electronics,South,2,172.38,344.75,Net Banking
+2024-02-19,Clothing,West,4,62.77,251.08,Debit Card
+2024-02-19,Electronics,East,3,483.53,1450.58,UPI
+2024-02-19,Electronics,North,2,490.8,981.6,Credit Card
+2024-02-19,Clothing,North,4,24.7,98.79,Net Banking
+2024-02-20,Clothing,North,2,61.12,122.23,Credit Card
+2024-02-20,Electronics,South,2,124.6,249.2,Credit Card
+2024-02-20,Clothing,North,4,58.56,234.25,Debit Card
+2024-02-21,Electronics,East,4,295.18,1180.73,Credit Card
+2024-02-21,Home & Kitchen,West,3,155.13,465.39,Net Banking
+2024-02-21,Electronics,East,4,292.42,1169.66,Net Banking
+2024-02-22,Electronics,North,3,141.69,425.08,Debit Card
+2024-02-22,Home & Kitchen,East,2,162.79,325.57,Credit Card
+2024-02-22,Sports,South,1,127.55,127.55,Debit Card
+2024-02-22,Clothing,South,3,83.31,249.92,UPI
+2024-02-23,Home & Kitchen,North,4,138.1,552.42,UPI
+2024-02-23,Electronics,West,4,450.62,1802.46,Credit Card
+2024-02-23,Books,South,3,36.07,108.2,UPI
+2024-02-23,Electronics,South,4,200.84,803.37,Debit Card
+2024-02-23,Electronics,West,1,382.85,382.85,UPI
+2024-02-23,Home & Kitchen,West,3,141.71,425.14,Debit Card
+2024-02-23,Electronics,East,1,344.88,344.88,UPI
+2024-02-24,Clothing,South,5,40.84,204.18,Debit Card
+2024-02-24,Books,East,5,10.01,50.04,Net Banking
+2024-02-24,Clothing,South,4,25.95,103.81,UPI
+2024-02-24,Electronics,West,2,484.81,969.62,Net Banking
+2024-02-25,Books,West,1,44.91,44.91,Credit Card
+2024-02-25,Home & Kitchen,North,1,104.38,104.38,Net Banking
+2024-02-25,Electronics,East,1,71.66,71.66,UPI
+2024-02-25,Books,East,5,20.71,103.56,Debit Card
+2024-02-25,Home & Kitchen,North,4,152.76,611.05,Credit Card
+2024-02-26,Books,West,1,46.43,46.43,Net Banking
+2024-02-26,Electronics,East,4,249.52,998.08,UPI
+2024-02-26,Electronics,East,4,155.38,621.53,Net Banking
+2024-02-26,Clothing,North,1,18.38,18.38,Credit Card
+2024-02-26,Clothing,North,5,31.67,158.34,Credit Card
+2024-02-27,Clothing,North,1,18.12,18.12,UPI
+2024-02-27,Home & Kitchen,South,3,167.0,501.01,UPI
+2024-02-27,Clothing,East,1,72.41,72.41,Debit Card
+2024-02-27,Electronics,West,3,234.96,704.88,Net Banking
+2024-02-27,Books,East,2,38.7,77.41,Net Banking
+2024-02-27,Electronics,West,2,101.52,203.04,UPI
+2024-02-27,Clothing,West,1,42.29,42.29,Credit Card
+2024-02-28,Clothing,East,2,26.8,53.61,Credit Card
+2024-02-28,Home & Kitchen,North,5,45.58,227.92,UPI
+2024-02-28,Electronics,North,5,229.72,1148.58,Debit Card
+2024-02-28,Books,South,5,21.02,105.08,Net Banking
+2024-02-29,Home & Kitchen,West,3,156.68,470.05,UPI
+2024-02-29,Electronics,East,4,226.84,907.35,Credit Card
+2024-02-29,Electronics,North,4,202.9,811.58,Credit Card
+2024-02-29,Books,East,1,18.72,18.72,Credit Card
+2024-03-01,Electronics,North,2,268.52,537.03,Credit Card
+2024-03-01,Electronics,South,3,122.01,366.03,Debit Card
+2024-03-01,Sports,North,2,93.17,186.35,Credit Card
+2024-03-02,Electronics,East,4,63.92,255.69,UPI
+2024-03-02,Clothing,North,5,52.44,262.19,UPI
+2024-03-02,Electronics,South,4,155.77,623.07,Debit Card
+2024-03-02,Sports,North,2,102.93,205.85,Debit Card
+2024-03-02,Home & Kitchen,South,5,173.46,867.3,Debit Card
+2024-03-02,Electronics,East,2,374.96,749.93,Credit Card
+2024-03-02,Electronics,North,4,260.05,1040.21,Net Banking
+2024-03-03,Clothing,West,2,59.41,118.82,UPI
+2024-03-03,Sports,East,1,120.57,120.57,UPI
+2024-03-03,Home & Kitchen,North,1,135.24,135.24,Debit Card
+2024-03-03,Clothing,East,5,68.26,341.3,Debit Card
+2024-03-03,Home & Kitchen,East,2,84.57,169.14,Debit Card
+2024-03-03,Electronics,North,3,499.02,1497.06,UPI
+2024-03-04,Clothing,North,5,94.65,473.26,Credit Card
+2024-03-04,Home & Kitchen,East,1,143.73,143.73,Net Banking
+2024-03-04,Clothing,South,5,21.15,105.73,Net Banking
+2024-03-05,Clothing,South,4,75.36,301.44,Net Banking
+2024-03-05,Clothing,East,3,64.58,193.73,UPI
+2024-03-05,Electronics,East,3,341.52,1024.55,Credit Card
+2024-03-06,Books,South,4,42.9,171.61,Net Banking
+2024-03-06,Home & Kitchen,East,5,92.26,461.3,Net Banking
+2024-03-06,Books,East,1,30.45,30.45,Debit Card
+2024-03-06,Electronics,South,2,260.14,520.27,Credit Card
+2024-03-07,Clothing,East,3,63.6,190.81,Credit Card
+2024-03-07,Clothing,West,3,73.4,220.19,Net Banking
+2024-03-07,Home & Kitchen,South,5,193.89,969.44,Debit Card
+2024-03-08,Electronics,North,3,335.45,1006.36,Net Banking
+2024-03-08,Books,East,2,44.36,88.72,Debit Card
+2024-03-08,Home & Kitchen,West,2,105.01,210.02,Debit Card
+2024-03-09,Books,North,1,22.63,22.63,UPI
+2024-03-09,Clothing,West,1,39.43,39.43,UPI
+2024-03-09,Clothing,West,5,35.56,177.8,Debit Card
+2024-03-09,Sports,East,3,83.01,249.04,Credit Card
+2024-03-09,Sports,West,1,147.0,147.0,UPI
+2024-03-09,Electronics,North,3,222.16,666.48,UPI
+2024-03-09,Clothing,East,4,63.51,254.02,UPI
+2024-03-10,Books,North,3,18.28,54.85,Net Banking
+2024-03-10,Books,North,5,28.95,144.76,Credit Card
+2024-03-10,Sports,North,5,122.12,610.58,Debit Card
+2024-03-10,Electronics,South,2,453.23,906.47,Net Banking
+2024-03-10,Clothing,West,4,83.84,335.35,Debit Card
+2024-03-10,Clothing,East,2,94.1,188.2,Credit Card
+2024-03-11,Sports,East,5,120.11,600.53,UPI
+2024-03-11,Clothing,South,3,52.87,158.61,Credit Card
+2024-03-11,Sports,North,3,87.28,261.84,UPI
+2024-03-12,Sports,North,3,26.63,79.89,Net Banking
+2024-03-12,Electronics,West,5,458.55,2292.77,Debit Card
+2024-03-12,Books,North,4,16.51,66.03,UPI
+2024-03-12,Books,South,1,32.08,32.08,Net Banking
+2024-03-12,Electronics,South,2,281.61,563.22,Net Banking
+2024-03-13,Home & Kitchen,South,1,191.87,191.87,Net Banking
+2024-03-13,Clothing,East,4,93.07,372.26,Net Banking
+2024-03-13,Books,West,4,46.09,184.36,Credit Card
+2024-03-13,Sports,East,3,133.35,400.04,UPI
+2024-03-13,Electronics,North,5,373.62,1868.11,Net Banking
+2024-03-13,Electronics,East,2,451.65,903.3,Debit Card
+2024-03-14,Electronics,West,3,317.21,951.63,Credit Card
+2024-03-14,Books,North,3,40.84,122.53,Debit Card
+2024-03-14,Electronics,North,5,177.11,885.56,Credit Card
+2024-03-14,Electronics,North,5,375.41,1877.04,Net Banking
+2024-03-14,Books,South,4,39.68,158.7,Debit Card
+2024-03-14,Clothing,South,5,84.43,422.13,UPI
+2024-03-15,Sports,West,5,119.23,596.14,UPI
+2024-03-15,Electronics,South,1,170.98,170.98,Debit Card
+2024-03-15,Home & Kitchen,East,5,111.6,558.0,Credit Card
+2024-03-15,Books,West,3,44.02,132.06,Debit Card
+2024-03-15,Electronics,North,1,205.4,205.4,Credit Card
+2024-03-15,Home & Kitchen,East,1,111.2,111.2,Credit Card
+2024-03-16,Electronics,West,2,327.16,654.32,Debit Card
+2024-03-16,Home & Kitchen,North,3,106.81,320.42,Credit Card
+2024-03-16,Home & Kitchen,East,3,141.89,425.66,Net Banking
+2024-03-17,Clothing,West,3,98.46,295.39,Debit Card
+2024-03-17,Electronics,West,5,188.05,940.25,UPI
+2024-03-17,Clothing,South,3,22.13,66.4,Net Banking
+2024-03-17,Electronics,East,1,338.78,338.78,Net Banking
+2024-03-17,Books,West,5,10.46,52.3,Net Banking
+2024-03-18,Electronics,South,5,490.53,2452.65,UPI
+2024-03-18,Clothing,East,3,56.06,168.18,Debit Card
+2024-03-18,Sports,East,3,99.88,299.64,Debit Card
+2024-03-18,Home & Kitchen,East,5,65.16,325.8,UPI
+2024-03-19,Clothing,East,2,95.47,190.94,Net Banking
+2024-03-19,Home & Kitchen,West,3,87.24,261.72,Credit Card
+2024-03-19,Clothing,East,1,96.39,96.39,Credit Card
+2024-03-20,Clothing,East,2,78.61,157.23,UPI
+2024-03-20,Clothing,North,2,34.48,68.96,Debit Card
+2024-03-20,Electronics,East,5,444.86,2224.31,Credit Card
+2024-03-21,Electronics,South,3,256.52,769.57,Net Banking
+2024-03-21,Sports,South,3,89.2,267.6,UPI
+2024-03-21,Electronics,East,3,396.83,1190.5,UPI
+2024-03-21,Books,North,5,35.21,176.05,UPI
+2024-03-21,Home & Kitchen,South,4,161.12,644.47,Net Banking
+2024-03-21,Books,South,5,29.64,148.22,Credit Card
+2024-03-21,Electronics,East,2,233.95,467.9,Debit Card
+2024-03-22,Home & Kitchen,East,5,165.05,825.26,Debit Card
+2024-03-22,Clothing,South,1,45.07,45.07,Debit Card
+2024-03-22,Sports,West,4,64.83,259.3,Credit Card
+2024-03-22,Sports,South,5,129.74,648.69,Debit Card
+2024-03-22,Books,East,1,26.44,26.44,UPI
+2024-03-22,Clothing,West,5,15.17,75.85,Debit Card
+2024-03-23,Clothing,South,2,25.33,50.65,Debit Card
+2024-03-23,Electronics,East,3,201.05,603.16,UPI
+2024-03-23,Books,North,3,30.0,90.01,Debit Card
+2024-03-24,Home & Kitchen,West,5,187.96,939.81,Debit Card
+2024-03-24,Clothing,North,2,32.37,64.73,Credit Card
+2024-03-24,Books,North,5,38.59,192.93,Debit Card
+2024-03-25,Home & Kitchen,West,5,107.32,536.59,Credit Card
+2024-03-25,Clothing,East,2,56.17,112.34,Debit Card
+2024-03-25,Electronics,West,2,80.14,160.28,Net Banking
+2024-03-25,Electronics,North,5,252.72,1263.58,Credit Card
+2024-03-25,Electronics,East,3,207.73,623.2,Debit Card
+2024-03-25,Home & Kitchen,South,3,169.65,508.94,Debit Card
+2024-03-26,Electronics,West,1,311.46,311.46,Debit Card
+2024-03-26,Home & Kitchen,West,3,153.61,460.82,Credit Card
+2024-03-26,Books,North,1,40.97,40.97,UPI
+2024-03-26,Clothing,South,4,75.89,303.58,UPI
+2024-03-26,Electronics,East,4,375.95,1503.82,UPI
+2024-03-26,Clothing,East,1,73.85,73.85,UPI
+2024-03-27,Clothing,West,5,33.59,167.95,Net Banking
+2024-03-27,Books,West,4,18.69,74.76,Net Banking
+2024-03-27,Electronics,North,3,420.95,1262.84,Credit Card
+2024-03-28,Clothing,East,5,86.81,434.07,Credit Card
+2024-03-28,Electronics,West,3,470.11,1410.32,Net Banking
+2024-03-28,Home & Kitchen,West,5,84.88,424.38,Credit Card
+2024-03-28,Clothing,West,3,16.46,49.37,Credit Card
+2024-03-28,Electronics,West,2,303.53,607.06,Debit Card
+2024-03-29,Home & Kitchen,East,2,61.2,122.4,Debit Card
+2024-03-29,Sports,East,5,132.63,663.15,Net Banking
+2024-03-29,Clothing,South,3,85.79,257.37,Credit Card
+2024-03-29,Sports,West,1,118.47,118.47,Credit Card
+2024-03-29,Books,North,4,47.95,191.8,Debit Card
+2024-03-29,Home & Kitchen,North,3,164.51,493.52,Debit Card
+2024-03-29,Clothing,South,5,85.87,429.36,Credit Card
+2024-03-30,Clothing,South,5,22.19,110.94,Net Banking
+2024-03-30,Home & Kitchen,East,5,87.58,437.9,Net Banking
+2024-03-30,Electronics,East,5,453.81,2269.07,Net Banking
+2024-03-30,Electronics,West,5,488.9,2444.52,Net Banking
+2024-03-30,Clothing,South,4,55.37,221.48,Debit Card
+2024-03-30,Clothing,West,5,97.26,486.3,Debit Card
+2024-03-31,Electronics,West,4,209.89,839.58,UPI
+2024-03-31,Electronics,West,2,423.19,846.38,UPI
+2024-03-31,Books,West,3,27.67,83.01,UPI
+2024-03-31,Clothing,East,5,53.97,269.83,UPI
+2024-03-31,Books,East,5,17.81,89.03,UPI
+2024-03-31,Home & Kitchen,East,4,41.06,164.25,Net Banking
+2024-03-31,Home & Kitchen,East,5,111.83,559.13,Credit Card
+2024-04-01,Sports,West,5,59.83,299.15,Credit Card
+2024-04-01,Electronics,North,2,456.44,912.87,UPI
+2024-04-01,Books,West,2,43.8,87.61,Debit Card
+2024-04-01,Electronics,North,1,163.69,163.69,Debit Card
+2024-04-01,Home & Kitchen,South,1,47.37,47.37,UPI
+2024-04-01,Electronics,South,2,476.83,953.65,Net Banking
+2024-04-02,Clothing,North,1,67.3,67.3,Net Banking
+2024-04-02,Sports,South,2,88.82,177.65,Credit Card
+2024-04-02,Home & Kitchen,North,2,132.74,265.48,Net Banking
+2024-04-02,Sports,East,4,115.57,462.3,Credit Card
+2024-04-02,Electronics,North,3,128.07,384.22,Net Banking
+2024-04-02,Electronics,North,2,354.83,709.65,Credit Card
+2024-04-02,Electronics,West,1,177.26,177.26,Debit Card
+2024-04-03,Home & Kitchen,East,3,131.53,394.59,Credit Card
+2024-04-03,Clothing,North,4,15.87,63.5,Debit Card
+2024-04-03,Sports,South,3,148.96,446.89,Net Banking
+2024-04-03,Clothing,West,2,20.25,40.51,Net Banking
+2024-04-03,Electronics,South,1,460.95,460.95,Credit Card
+2024-04-04,Books,South,3,41.37,124.1,Debit Card
+2024-04-04,Books,West,2,21.8,43.61,UPI
+2024-04-04,Electronics,South,2,133.08,266.17,Credit Card
+2024-04-04,Home & Kitchen,North,5,127.29,636.47,Net Banking
+2024-04-04,Electronics,North,1,70.36,70.36,UPI
+2024-04-04,Books,West,3,13.31,39.93,Debit Card
+2024-04-05,Electronics,North,5,103.42,517.1,Debit Card
+2024-04-05,Home & Kitchen,West,3,51.05,153.16,Debit Card
+2024-04-05,Sports,South,2,43.04,86.08,Net Banking
+2024-04-05,Electronics,North,1,256.07,256.07,Net Banking
+2024-04-05,Clothing,North,1,91.15,91.15,Debit Card
+2024-04-05,Home & Kitchen,North,1,121.82,121.82,Credit Card
+2024-04-05,Home & Kitchen,North,5,187.86,939.3,Debit Card
+2024-04-06,Clothing,South,5,36.23,181.15,UPI
+2024-04-06,Sports,South,4,34.6,138.4,Credit Card
+2024-04-06,Clothing,West,2,84.25,168.49,Debit Card
+2024-04-07,Clothing,West,2,38.64,77.28,Credit Card
+2024-04-07,Electronics,West,4,238.63,954.53,UPI
+2024-04-07,Clothing,East,1,86.1,86.1,Debit Card
+2024-04-08,Home & Kitchen,East,2,160.57,321.15,UPI
+2024-04-08,Books,East,2,30.02,60.04,Credit Card
+2024-04-08,Electronics,South,1,188.81,188.81,Net Banking
+2024-04-08,Electronics,North,4,195.96,783.82,Net Banking
+2024-04-08,Clothing,North,3,81.32,243.95,Net Banking
+2024-04-08,Clothing,East,1,67.93,67.93,Credit Card
+2024-04-08,Clothing,West,5,52.59,262.96,UPI
+2024-04-09,Electronics,East,2,84.56,169.13,Net Banking
+2024-04-09,Electronics,South,2,466.91,933.82,Net Banking
+2024-04-09,Clothing,North,2,81.44,162.87,Debit Card
+2024-04-10,Clothing,East,2,60.51,121.01,UPI
+2024-04-10,Clothing,East,4,85.75,343.0,Net Banking
+2024-04-10,Books,North,4,13.34,53.36,UPI
+2024-04-10,Books,North,4,37.75,151.01,Net Banking
+2024-04-10,Electronics,North,5,392.07,1960.36,Net Banking
+2024-04-10,Clothing,West,5,64.71,323.56,UPI
+2024-04-11,Clothing,West,4,24.45,97.79,Net Banking
+2024-04-11,Electronics,West,2,228.65,457.29,Net Banking
+2024-04-11,Electronics,South,2,250.04,500.08,Credit Card
+2024-04-11,Books,North,3,27.86,83.57,Credit Card
+2024-04-11,Home & Kitchen,West,5,43.25,216.26,Net Banking
+2024-04-11,Clothing,West,1,99.32,99.32,Debit Card
+2024-04-11,Electronics,West,4,77.45,309.81,Net Banking
+2024-04-12,Home & Kitchen,North,2,20.24,40.48,UPI
+2024-04-12,Electronics,South,2,155.0,310.0,Net Banking
+2024-04-12,Electronics,South,4,365.62,1462.49,Credit Card
+2024-04-12,Clothing,North,2,21.94,43.87,Net Banking
+2024-04-12,Clothing,West,3,83.47,250.41,Net Banking
+2024-04-13,Home & Kitchen,West,2,42.95,85.89,Credit Card
+2024-04-13,Electronics,South,5,182.01,910.05,Net Banking
+2024-04-13,Home & Kitchen,West,2,156.14,312.28,Net Banking
+2024-04-13,Clothing,East,4,71.53,286.12,UPI
+2024-04-13,Electronics,North,4,342.4,1369.62,UPI
+2024-04-13,Electronics,North,3,210.47,631.4,Credit Card
+2024-04-14,Books,North,5,34.29,171.43,Credit Card
+2024-04-14,Electronics,East,4,112.11,448.43,Credit Card
+2024-04-14,Electronics,West,4,312.22,1248.89,Debit Card
+2024-04-14,Home & Kitchen,South,5,152.93,764.66,Net Banking
+2024-04-14,Home & Kitchen,West,4,36.65,146.6,Credit Card
+2024-04-15,Electronics,West,5,408.43,2042.14,Debit Card
+2024-04-15,Electronics,East,5,293.62,1468.09,Debit Card
+2024-04-15,Clothing,South,2,94.27,188.53,Debit Card
+2024-04-16,Clothing,South,1,61.31,61.31,Net Banking
+2024-04-16,Sports,West,4,27.62,110.47,Credit Card
+2024-04-16,Clothing,North,1,40.76,40.76,Credit Card
+2024-04-16,Home & Kitchen,South,4,41.68,166.72,Debit Card
+2024-04-16,Clothing,South,3,29.11,87.34,Credit Card
+2024-04-16,Electronics,West,5,101.82,509.08,Credit Card
+2024-04-17,Clothing,West,1,70.15,70.15,Debit Card
+2024-04-17,Home & Kitchen,North,3,90.51,271.54,UPI
+2024-04-17,Electronics,South,1,68.88,68.88,Net Banking
+2024-04-17,Electronics,West,3,304.63,913.9,Debit Card
+2024-04-17,Electronics,East,4,326.48,1305.92,Debit Card
+2024-04-17,Electronics,South,2,333.54,667.08,Debit Card
+2024-04-18,Clothing,South,2,76.38,152.75,Debit Card
+2024-04-18,Home & Kitchen,North,1,161.47,161.47,UPI
+2024-04-18,Books,West,5,35.76,178.79,Debit Card
+2024-04-19,Home & Kitchen,East,4,170.37,681.47,UPI
+2024-04-19,Electronics,West,2,409.9,819.81,Credit Card
+2024-04-19,Home & Kitchen,East,4,106.1,424.4,Debit Card
+2024-04-19,Books,North,5,13.2,66.02,UPI
+2024-04-20,Electronics,West,3,73.02,219.05,Credit Card
+2024-04-20,Books,West,4,30.82,123.27,Debit Card
+2024-04-20,Electronics,South,5,71.91,359.56,Credit Card
+2024-04-20,Home & Kitchen,North,3,101.28,303.85,UPI
+2024-04-20,Books,South,1,39.15,39.15,Net Banking
+2024-04-21,Electronics,West,3,51.88,155.65,UPI
+2024-04-21,Clothing,West,1,99.03,99.03,Net Banking
+2024-04-21,Sports,East,5,109.69,548.47,UPI
+2024-04-21,Clothing,South,4,38.85,155.4,Debit Card
+2024-04-21,Electronics,South,5,151.1,755.48,UPI
+2024-04-21,Books,South,4,42.17,168.67,Net Banking
+2024-04-21,Electronics,South,2,343.52,687.05,Debit Card
+2024-04-22,Home & Kitchen,West,4,98.13,392.52,Credit Card
+2024-04-22,Clothing,East,3,65.07,195.2,Net Banking
+2024-04-22,Home & Kitchen,East,3,153.61,460.83,Debit Card
+2024-04-22,Books,West,3,39.4,118.2,Debit Card
+2024-04-22,Clothing,East,5,20.18,100.89,Net Banking
+2024-04-22,Clothing,East,5,17.04,85.18,Credit Card
+2024-04-23,Electronics,East,1,212.74,212.74,UPI
+2024-04-23,Clothing,South,2,65.74,131.48,Debit Card
+2024-04-23,Sports,North,3,79.5,238.5,UPI
+2024-04-23,Home & Kitchen,North,1,50.93,50.93,UPI
+2024-04-23,Electronics,West,1,322.18,322.18,Credit Card
+2024-04-24,Electronics,East,4,368.16,1472.63,Credit Card
+2024-04-24,Electronics,North,5,179.25,896.25,UPI
+2024-04-24,Electronics,East,5,61.08,305.39,Credit Card
+2024-04-25,Books,South,4,47.38,189.53,UPI
+2024-04-25,Books,East,1,17.3,17.3,Debit Card
+2024-04-25,Clothing,West,3,51.33,154.0,UPI
+2024-04-26,Electronics,South,1,216.6,216.6,Debit Card
+2024-04-26,Sports,East,3,35.3,105.9,UPI
+2024-04-26,Home & Kitchen,East,1,174.3,174.3,UPI
+2024-04-26,Home & Kitchen,East,5,140.48,702.42,UPI
+2024-04-26,Clothing,West,3,26.67,80.01,Debit Card
+2024-04-27,Books,West,3,13.28,39.84,Net Banking
+2024-04-27,Home & Kitchen,East,5,105.59,527.93,UPI
+2024-04-27,Electronics,East,5,336.22,1681.11,UPI
+2024-04-27,Books,West,3,36.84,110.52,Net Banking
+2024-04-27,Clothing,North,4,49.66,198.64,Net Banking
+2024-04-28,Home & Kitchen,West,3,43.81,131.44,Debit Card
+2024-04-28,Sports,West,5,90.07,450.34,Credit Card
+2024-04-28,Clothing,North,5,20.37,101.83,Debit Card
+2024-04-28,Books,South,4,42.81,171.24,Credit Card
+2024-04-29,Electronics,West,2,468.87,937.74,UPI
+2024-04-29,Electronics,West,3,74.63,223.89,Net Banking
+2024-04-29,Sports,West,2,141.1,282.2,UPI
+2024-04-30,Home & Kitchen,West,5,131.84,659.2,Net Banking
+2024-04-30,Electronics,South,2,74.22,148.45,UPI
+2024-04-30,Clothing,North,5,88.22,441.11,Debit Card
+2024-05-01,Electronics,East,2,494.1,988.21,Net Banking
+2024-05-01,Books,East,5,48.16,240.81,Credit Card
+2024-05-01,Electronics,West,3,50.27,150.81,Net Banking
+2024-05-01,Electronics,East,4,237.83,951.31,Credit Card
+2024-05-02,Clothing,North,2,40.34,80.67,Debit Card
+2024-05-02,Electronics,West,3,196.83,590.48,Debit Card
+2024-05-02,Electronics,North,1,161.13,161.13,Debit Card
+2024-05-03,Books,South,3,34.24,102.71,Net Banking
+2024-05-03,Books,North,3,43.19,129.58,Net Banking
+2024-05-03,Clothing,North,5,82.42,412.08,UPI
+2024-05-03,Electronics,East,3,208.55,625.64,Net Banking
+2024-05-03,Electronics,East,1,278.66,278.66,UPI
+2024-05-03,Home & Kitchen,North,1,179.74,179.74,UPI
+2024-05-04,Clothing,South,2,65.7,131.4,Net Banking
+2024-05-04,Electronics,East,2,303.98,607.96,Debit Card
+2024-05-04,Home & Kitchen,West,3,39.78,119.33,UPI
+2024-05-05,Electronics,East,1,434.14,434.14,UPI
+2024-05-05,Clothing,South,1,92.42,92.42,Net Banking
+2024-05-05,Clothing,North,5,64.43,322.16,Credit Card
+2024-05-05,Electronics,South,1,137.96,137.96,Credit Card
+2024-05-05,Books,East,2,12.18,24.36,Net Banking
+2024-05-05,Clothing,West,3,56.43,169.28,Credit Card
+2024-05-06,Electronics,North,3,306.03,918.09,UPI
+2024-05-06,Books,East,4,31.78,127.14,Net Banking
+2024-05-06,Home & Kitchen,North,1,101.06,101.06,Credit Card
+2024-05-06,Home & Kitchen,West,1,127.36,127.36,Debit Card
+2024-05-06,Clothing,East,4,96.36,385.43,Net Banking
+2024-05-06,Clothing,North,2,58.43,116.87,UPI
+2024-05-06,Clothing,North,1,61.81,61.81,Debit Card
+2024-05-07,Home & Kitchen,West,3,32.32,96.96,Net Banking
+2024-05-07,Clothing,East,5,55.24,276.21,UPI
+2024-05-07,Electronics,West,3,356.17,1068.52,Debit Card
+2024-05-07,Electronics,East,1,283.13,283.13,Credit Card
+2024-05-07,Home & Kitchen,East,2,66.6,133.21,UPI
+2024-05-07,Electronics,South,3,267.02,801.07,Debit Card
+2024-05-08,Sports,North,2,85.9,171.8,Debit Card
+2024-05-08,Electronics,West,2,287.9,575.79,Credit Card
+2024-05-08,Electronics,North,4,278.01,1112.03,UPI
+2024-05-09,Sports,East,1,131.53,131.53,Credit Card
+2024-05-09,Electronics,South,3,383.3,1149.9,Credit Card
+2024-05-09,Home & Kitchen,South,1,39.11,39.11,Debit Card
+2024-05-09,Electronics,South,4,220.1,880.39,Credit Card
+2024-05-09,Clothing,East,1,37.3,37.3,Credit Card
+2024-05-09,Home & Kitchen,South,5,92.76,463.82,UPI
+2024-05-10,Books,East,1,29.28,29.28,Credit Card
+2024-05-10,Electronics,North,2,75.3,150.6,Net Banking
+2024-05-10,Electronics,North,2,281.89,563.77,Debit Card
+2024-05-10,Clothing,North,4,73.06,292.26,UPI
+2024-05-11,Books,East,5,15.25,76.26,Credit Card
+2024-05-11,Electronics,East,4,354.38,1417.52,Debit Card
+2024-05-11,Electronics,South,5,497.98,2489.9,Credit Card
+2024-05-11,Electronics,East,5,493.61,2468.06,Net Banking
+2024-05-11,Clothing,West,1,60.76,60.76,Net Banking
+2024-05-11,Electronics,South,5,250.37,1251.87,UPI
+2024-05-12,Clothing,West,5,32.41,162.04,Credit Card
+2024-05-12,Clothing,East,4,93.07,372.3,UPI
+2024-05-12,Electronics,North,1,441.29,441.29,Debit Card
+2024-05-12,Books,West,1,46.97,46.97,Credit Card
+2024-05-12,Electronics,North,2,103.21,206.41,Debit Card
+2024-05-12,Electronics,South,4,365.49,1461.98,UPI
+2024-05-12,Home & Kitchen,East,3,104.04,312.11,Debit Card
+2024-05-13,Books,West,4,44.55,178.18,Net Banking
+2024-05-13,Clothing,West,5,89.61,448.04,Debit Card
+2024-05-13,Electronics,West,5,230.76,1153.82,Net Banking
+2024-05-13,Electronics,West,4,401.02,1604.09,Net Banking
+2024-05-13,Sports,North,2,56.84,113.69,Debit Card
+2024-05-13,Clothing,West,5,76.24,381.19,Debit Card
+2024-05-13,Electronics,North,1,134.96,134.96,UPI
+2024-05-14,Electronics,South,1,305.79,305.79,Net Banking
+2024-05-14,Sports,East,3,81.6,244.81,UPI
+2024-05-14,Electronics,West,5,310.92,1554.62,Credit Card
+2024-05-14,Electronics,North,1,251.4,251.4,Debit Card
+2024-05-15,Electronics,North,3,166.42,499.26,Net Banking
+2024-05-15,Home & Kitchen,South,2,22.56,45.11,Debit Card
+2024-05-15,Home & Kitchen,North,2,116.0,232.0,Credit Card
+2024-05-15,Sports,North,4,61.93,247.71,UPI
+2024-05-15,Electronics,East,2,216.94,433.88,Net Banking
+2024-05-15,Clothing,East,4,64.0,256.01,Net Banking
+2024-05-16,Books,South,3,27.82,83.46,Debit Card
+2024-05-16,Home & Kitchen,South,1,124.96,124.96,Debit Card
+2024-05-16,Electronics,South,1,440.18,440.18,Debit Card
+2024-05-17,Home & Kitchen,East,1,51.14,51.14,Net Banking
+2024-05-17,Electronics,East,1,209.06,209.06,Net Banking
+2024-05-17,Clothing,West,2,59.41,118.82,Debit Card
+2024-05-17,Electronics,East,3,89.86,269.58,Net Banking
+2024-05-17,Electronics,West,2,237.83,475.65,Debit Card
+2024-05-17,Electronics,North,1,329.11,329.11,Net Banking
+2024-05-18,Clothing,South,3,26.84,80.53,Credit Card
+2024-05-18,Clothing,North,3,58.0,174.01,Net Banking
+2024-05-18,Clothing,North,1,74.63,74.63,Net Banking
+2024-05-18,Home & Kitchen,South,3,100.34,301.02,UPI
+2024-05-18,Sports,North,5,78.9,394.51,Credit Card
+2024-05-19,Electronics,West,2,310.69,621.38,Credit Card
+2024-05-19,Electronics,East,5,189.61,948.03,Credit Card
+2024-05-19,Clothing,East,1,28.9,28.9,Debit Card
+2024-05-19,Books,West,4,20.62,82.49,Credit Card
+2024-05-19,Electronics,South,5,439.78,2198.91,UPI
+2024-05-19,Sports,East,3,138.83,416.5,Credit Card
+2024-05-19,Clothing,East,4,21.4,85.59,Credit Card
+2024-05-20,Books,East,5,38.41,192.07,UPI
+2024-05-20,Home & Kitchen,North,5,103.52,517.6,UPI
+2024-05-20,Home & Kitchen,South,3,195.4,586.2,UPI
+2024-05-20,Books,South,1,40.72,40.72,Debit Card
+2024-05-21,Electronics,East,2,78.91,157.81,UPI
+2024-05-21,Books,East,2,48.9,97.81,UPI
+2024-05-21,Clothing,South,5,74.46,372.3,UPI
+2024-05-21,Home & Kitchen,West,5,195.1,975.51,Credit Card
+2024-05-21,Books,East,2,45.08,90.17,UPI
+2024-05-21,Home & Kitchen,West,5,24.5,122.49,UPI
+2024-05-22,Clothing,West,2,76.83,153.67,Credit Card
+2024-05-22,Sports,North,5,65.84,329.21,Net Banking
+2024-05-22,Clothing,East,5,77.49,387.47,Debit Card
+2024-05-22,Home & Kitchen,East,4,75.05,300.19,UPI
+2024-05-23,Clothing,North,5,64.19,320.97,UPI
+2024-05-23,Books,West,5,10.77,53.83,UPI
+2024-05-23,Electronics,North,1,124.93,124.93,UPI
+2024-05-23,Sports,North,2,105.74,211.48,Net Banking
+2024-05-24,Clothing,North,2,53.08,106.16,Debit Card
+2024-05-24,Electronics,South,3,256.01,768.04,UPI
+2024-05-24,Electronics,East,4,295.55,1182.2,Debit Card
+2024-05-25,Clothing,South,1,58.76,58.76,Net Banking
+2024-05-25,Clothing,North,5,29.18,145.91,Net Banking
+2024-05-25,Home & Kitchen,South,5,23.18,115.9,UPI
+2024-05-25,Clothing,West,3,99.29,297.86,Debit Card
+2024-05-25,Sports,East,2,138.77,277.55,UPI
+2024-05-26,Home & Kitchen,East,4,188.51,754.05,UPI
+2024-05-26,Books,North,1,10.15,10.15,Credit Card
+2024-05-26,Clothing,South,2,46.9,93.8,Net Banking
+2024-05-26,Electronics,South,3,440.85,1322.55,Debit Card
+2024-05-26,Electronics,West,1,145.14,145.14,Credit Card
+2024-05-26,Clothing,West,5,96.97,484.85,Credit Card
+2024-05-27,Books,South,5,35.19,175.94,Credit Card
+2024-05-27,Electronics,West,1,58.34,58.34,Debit Card
+2024-05-27,Electronics,North,5,250.65,1253.24,UPI
+2024-05-27,Home & Kitchen,East,3,166.89,500.67,Debit Card
+2024-05-27,Home & Kitchen,South,1,183.84,183.84,Net Banking
+2024-05-27,Electronics,West,5,156.41,782.07,UPI
+2024-05-28,Sports,East,1,143.19,143.19,Net Banking
+2024-05-28,Home & Kitchen,East,3,96.08,288.25,UPI
+2024-05-28,Home & Kitchen,East,2,99.23,198.46,Net Banking
+2024-05-29,Electronics,North,1,293.56,293.56,Net Banking
+2024-05-29,Home & Kitchen,North,1,176.41,176.41,UPI
+2024-05-29,Home & Kitchen,North,4,64.25,256.99,Net Banking
+2024-05-29,Sports,East,3,141.24,423.73,Net Banking
+2024-05-29,Clothing,South,3,54.81,164.42,Credit Card
+2024-05-29,Electronics,East,2,493.06,986.12,Debit Card
+2024-05-29,Sports,West,5,25.61,128.04,Net Banking
+2024-05-30,Books,North,2,31.33,62.66,Credit Card
+2024-05-30,Books,North,4,14.15,56.58,Debit Card
+2024-05-30,Electronics,West,2,356.11,712.23,Debit Card
+2024-05-30,Home & Kitchen,North,3,132.27,396.82,Credit Card
+2024-05-30,Books,East,4,13.5,53.99,UPI
+2024-05-30,Books,West,5,16.0,79.98,UPI
+2024-05-30,Home & Kitchen,South,5,110.47,552.37,UPI
+2024-05-31,Sports,East,5,127.27,636.34,Credit Card
+2024-05-31,Home & Kitchen,North,1,46.89,46.89,UPI
+2024-05-31,Books,West,1,33.4,33.4,Net Banking
+2024-05-31,Electronics,South,4,490.53,1962.11,Debit Card
+2024-05-31,Clothing,West,2,40.24,80.47,Net Banking
+2024-06-01,Electronics,South,2,330.41,660.82,Debit Card
+2024-06-01,Electronics,North,2,107.06,214.12,UPI
+2024-06-01,Electronics,South,5,97.61,488.04,Credit Card
+2024-06-01,Sports,South,4,67.33,269.31,Credit Card
+2024-06-01,Electronics,West,1,199.98,199.98,UPI
+2024-06-01,Clothing,West,4,80.72,322.88,Credit Card
+2024-06-02,Electronics,West,2,180.66,361.33,Debit Card
+2024-06-02,Electronics,West,3,391.78,1175.35,Credit Card
+2024-06-02,Books,North,1,28.5,28.5,Debit Card
+2024-06-03,Books,South,2,20.7,41.4,Debit Card
+2024-06-03,Electronics,South,5,312.47,1562.37,Net Banking
+2024-06-03,Sports,North,3,39.21,117.62,Net Banking
+2024-06-03,Electronics,East,1,404.03,404.03,Debit Card
+2024-06-04,Electronics,North,3,84.87,254.6,UPI
+2024-06-04,Home & Kitchen,South,3,153.27,459.8,Debit Card
+2024-06-04,Electronics,South,2,331.29,662.58,UPI
+2024-06-04,Electronics,West,1,384.51,384.51,Debit Card
+2024-06-04,Clothing,South,5,20.24,101.21,Debit Card
+2024-06-04,Home & Kitchen,South,3,48.72,146.15,Credit Card
+2024-06-04,Books,West,2,14.65,29.31,Credit Card
+2024-06-05,Electronics,West,3,90.42,271.26,UPI
+2024-06-05,Sports,East,1,25.16,25.16,Debit Card
+2024-06-05,Books,East,2,23.49,46.98,UPI
+2024-06-05,Electronics,South,5,361.63,1808.16,UPI
+2024-06-05,Clothing,East,2,82.87,165.74,Debit Card
+2024-06-05,Electronics,South,2,480.16,960.31,Credit Card
+2024-06-06,Home & Kitchen,East,2,83.75,167.5,Debit Card
+2024-06-06,Home & Kitchen,East,2,156.25,312.49,UPI
+2024-06-06,Books,West,4,23.11,92.44,UPI
+2024-06-06,Clothing,East,4,86.08,344.34,Debit Card
+2024-06-06,Electronics,North,3,456.36,1369.09,UPI
+2024-06-06,Sports,South,2,102.74,205.48,Credit Card
+2024-06-06,Home & Kitchen,South,5,148.45,742.25,Net Banking
+2024-06-07,Electronics,West,2,253.5,506.99,Credit Card
+2024-06-07,Books,North,4,10.71,42.83,Debit Card
+2024-06-07,Electronics,East,5,219.29,1096.43,Credit Card
+2024-06-07,Clothing,West,5,94.34,471.7,UPI
+2024-06-07,Electronics,West,1,212.0,212.0,Debit Card
+2024-06-07,Clothing,East,2,18.19,36.39,Net Banking
+2024-06-07,Electronics,East,1,135.47,135.47,Net Banking
+2024-06-08,Books,West,5,10.29,51.47,Net Banking
+2024-06-08,Electronics,East,2,251.05,502.11,Debit Card
+2024-06-08,Electronics,North,4,158.11,632.44,Net Banking
+2024-06-08,Electronics,East,4,462.17,1848.68,Credit Card
+2024-06-08,Clothing,East,5,97.27,486.34,Credit Card
+2024-06-09,Home & Kitchen,East,3,169.97,509.92,Debit Card
+2024-06-09,Home & Kitchen,North,1,109.67,109.67,UPI
+2024-06-09,Books,North,3,36.41,109.24,Net Banking
+2024-06-10,Electronics,West,4,142.35,569.4,UPI
+2024-06-10,Books,East,2,33.47,66.94,UPI
+2024-06-10,Home & Kitchen,West,1,149.86,149.86,Net Banking
+2024-06-10,Clothing,West,3,47.19,141.56,UPI
+2024-06-10,Home & Kitchen,West,4,117.05,468.22,Debit Card
+2024-06-10,Electronics,South,2,72.32,144.63,Net Banking
+2024-06-10,Electronics,North,3,68.49,205.46,Debit Card
+2024-06-11,Clothing,West,5,21.0,104.98,UPI
+2024-06-11,Books,South,3,34.88,104.64,UPI
+2024-06-11,Home & Kitchen,West,3,21.81,65.43,Debit Card
+2024-06-11,Sports,West,1,73.58,73.58,Debit Card
+2024-06-12,Electronics,West,1,115.35,115.35,Debit Card
+2024-06-12,Books,North,3,44.18,132.54,Net Banking
+2024-06-12,Electronics,West,4,63.71,254.82,Credit Card
+2024-06-12,Electronics,North,2,151.55,303.1,Debit Card
+2024-06-12,Sports,West,3,39.44,118.31,Net Banking
+2024-06-12,Clothing,South,1,71.89,71.89,Debit Card
+2024-06-12,Electronics,North,5,201.38,1006.89,Credit Card
+2024-06-13,Home & Kitchen,East,1,21.53,21.53,Credit Card
+2024-06-13,Clothing,East,5,89.92,449.6,UPI
+2024-06-13,Home & Kitchen,West,4,81.41,325.63,Net Banking
+2024-06-13,Clothing,West,1,75.08,75.08,Net Banking
+2024-06-14,Books,North,4,38.76,155.04,UPI
+2024-06-14,Electronics,North,3,222.81,668.43,Net Banking
+2024-06-14,Electronics,North,1,250.86,250.86,Debit Card
+2024-06-14,Clothing,South,4,94.61,378.43,Debit Card
+2024-06-14,Electronics,South,2,377.82,755.64,Credit Card
+2024-06-15,Home & Kitchen,East,1,165.41,165.41,UPI
+2024-06-15,Home & Kitchen,East,4,190.62,762.46,Net Banking
+2024-06-15,Home & Kitchen,North,2,162.94,325.89,Credit Card
+2024-06-15,Electronics,East,4,375.97,1503.9,Credit Card
+2024-06-15,Clothing,North,2,50.53,101.05,Net Banking
+2024-06-15,Electronics,South,1,413.76,413.76,Net Banking
+2024-06-15,Sports,West,1,32.91,32.91,UPI
+2024-06-16,Home & Kitchen,North,2,177.64,355.27,Net Banking
+2024-06-16,Clothing,North,2,61.2,122.39,UPI
+2024-06-16,Home & Kitchen,South,2,84.0,167.99,Net Banking
+2024-06-16,Home & Kitchen,East,4,173.23,692.91,Debit Card
+2024-06-16,Electronics,West,5,94.35,471.73,Net Banking
+2024-06-16,Clothing,East,5,90.38,451.91,Net Banking
+2024-06-16,Home & Kitchen,South,5,105.34,526.69,UPI
+2024-06-17,Clothing,West,4,30.12,120.48,Credit Card
+2024-06-17,Books,North,3,37.17,111.5,Net Banking
+2024-06-17,Sports,North,1,145.36,145.36,Credit Card
+2024-06-17,Electronics,South,2,499.64,999.29,Debit Card
+2024-06-18,Books,North,4,14.51,58.05,UPI
+2024-06-18,Home & Kitchen,South,3,101.61,304.84,Net Banking
+2024-06-18,Clothing,East,1,38.32,38.32,Credit Card
+2024-06-18,Books,North,5,37.53,187.67,UPI
+2024-06-19,Sports,West,3,70.65,211.96,Credit Card
+2024-06-19,Clothing,West,1,51.24,51.24,Debit Card
+2024-06-19,Electronics,North,4,413.39,1653.57,Debit Card
+2024-06-19,Home & Kitchen,South,4,193.84,775.35,Debit Card
+2024-06-19,Electronics,South,4,482.99,1931.95,Net Banking
+2024-06-19,Sports,North,3,139.34,418.03,UPI
+2024-06-20,Home & Kitchen,South,1,75.78,75.78,UPI
+2024-06-20,Books,East,1,30.33,30.33,Net Banking
+2024-06-20,Sports,East,2,50.08,100.16,Net Banking
+2024-06-21,Clothing,South,1,57.76,57.76,Net Banking
+2024-06-21,Books,North,2,11.19,22.38,Net Banking
+2024-06-21,Electronics,West,2,52.2,104.4,Debit Card
+2024-06-21,Home & Kitchen,North,5,108.51,542.56,Debit Card
+2024-06-21,Electronics,West,1,153.37,153.37,UPI
+2024-06-21,Electronics,North,1,410.52,410.52,Net Banking
+2024-06-21,Sports,North,3,126.52,379.57,Debit Card
+2024-06-22,Electronics,West,4,297.24,1188.97,Net Banking
+2024-06-22,Books,South,4,11.97,47.9,Credit Card
+2024-06-22,Clothing,South,5,88.71,443.54,UPI
+2024-06-22,Books,South,5,19.72,98.59,UPI
+2024-06-22,Electronics,North,4,211.92,847.68,Net Banking
+2024-06-23,Clothing,South,4,40.34,161.37,Debit Card
+2024-06-23,Home & Kitchen,East,4,135.67,542.69,Debit Card
+2024-06-23,Electronics,South,4,397.06,1588.24,Credit Card
+2024-06-23,Books,South,5,11.24,56.21,Credit Card
+2024-06-23,Electronics,South,4,310.88,1243.53,Debit Card
+2024-06-24,Home & Kitchen,East,5,87.83,439.13,Credit Card
+2024-06-24,Electronics,West,3,56.97,170.92,Credit Card
+2024-06-24,Electronics,North,3,210.38,631.15,Net Banking
+2024-06-24,Books,West,5,10.12,50.58,Debit Card
+2024-06-24,Books,West,1,49.87,49.87,Net Banking
+2024-06-25,Electronics,North,3,340.72,1022.16,Credit Card
+2024-06-25,Electronics,North,1,251.41,251.41,Credit Card
+2024-06-25,Clothing,West,2,91.47,182.93,Credit Card
+2024-06-25,Home & Kitchen,South,3,186.41,559.23,Credit Card
+2024-06-25,Electronics,South,5,276.66,1383.31,Debit Card
+2024-06-25,Home & Kitchen,East,4,136.66,546.63,Net Banking
+2024-06-26,Electronics,South,3,90.92,272.76,Credit Card
+2024-06-26,Home & Kitchen,South,2,194.19,388.39,Credit Card
+2024-06-26,Sports,South,2,51.51,103.01,Net Banking
+2024-06-26,Electronics,East,5,282.7,1413.52,Debit Card
+2024-06-26,Home & Kitchen,East,5,125.11,625.53,Credit Card
+2024-06-27,Clothing,South,2,54.17,108.35,Debit Card
+2024-06-27,Home & Kitchen,North,1,159.37,159.37,Credit Card
+2024-06-27,Home & Kitchen,South,1,59.43,59.43,Net Banking
+2024-06-28,Home & Kitchen,West,5,168.1,840.48,Debit Card
+2024-06-28,Clothing,North,2,88.49,176.97,Net Banking
+2024-06-28,Home & Kitchen,East,4,167.21,668.85,UPI
+2024-06-28,Clothing,West,5,80.49,402.44,UPI
+2024-06-28,Clothing,North,5,55.63,278.15,Debit Card
+2024-06-28,Electronics,West,3,268.88,806.65,Debit Card
+2024-06-29,Electronics,East,2,380.44,760.88,Net Banking
+2024-06-29,Electronics,North,3,222.42,667.27,Debit Card
+2024-06-29,Clothing,South,4,24.13,96.52,Credit Card
+2024-06-30,Electronics,North,4,487.42,1949.7,UPI
+2024-06-30,Electronics,North,4,178.11,712.44,Debit Card
+2024-06-30,Electronics,North,2,418.74,837.49,Debit Card
+2024-06-30,Electronics,East,2,126.11,252.21,Debit Card
+2024-06-30,Home & Kitchen,East,1,149.67,149.67,UPI
+2024-06-30,Electronics,South,5,197.05,985.24,UPI
+2024-06-30,Clothing,South,2,69.53,139.07,Credit Card
+2024-07-01,Electronics,North,1,306.64,306.64,Credit Card
+2024-07-01,Clothing,North,1,86.61,86.61,Net Banking
+2024-07-01,Clothing,West,2,70.52,141.04,UPI
+2024-07-01,Home & Kitchen,South,5,184.47,922.35,Net Banking
+2024-07-01,Books,South,2,12.66,25.31,Credit Card
+2024-07-01,Electronics,South,1,194.33,194.33,UPI
+2024-07-01,Electronics,East,2,347.72,695.43,Debit Card
+2024-07-02,Sports,North,5,91.7,458.51,Credit Card
+2024-07-02,Sports,West,1,113.33,113.33,UPI
+2024-07-02,Sports,North,1,109.85,109.85,UPI
+2024-07-02,Electronics,South,2,155.39,310.78,UPI
+2024-07-02,Home & Kitchen,North,1,182.16,182.16,Credit Card
+2024-07-03,Clothing,North,1,59.82,59.82,Credit Card
+2024-07-03,Clothing,West,2,64.28,128.56,UPI
+2024-07-03,Electronics,South,5,132.43,662.13,Net Banking
+2024-07-03,Electronics,South,3,162.46,487.37,UPI
+2024-07-03,Clothing,West,4,43.28,173.13,Debit Card
+2024-07-04,Electronics,North,5,359.56,1797.8,Debit Card
+2024-07-04,Home & Kitchen,East,4,104.45,417.81,Credit Card
+2024-07-04,Clothing,East,2,30.59,61.18,UPI
+2024-07-04,Clothing,East,1,25.83,25.83,Credit Card
+2024-07-04,Home & Kitchen,South,3,50.28,150.83,Net Banking
+2024-07-04,Books,South,3,26.19,78.56,Debit Card
+2024-07-04,Electronics,North,1,461.22,461.22,UPI
+2024-07-05,Home & Kitchen,North,5,23.61,118.04,Credit Card
+2024-07-05,Books,West,1,15.53,15.53,UPI
+2024-07-05,Clothing,West,1,84.12,84.12,Credit Card
+2024-07-05,Books,North,4,44.01,176.05,Credit Card
+2024-07-05,Home & Kitchen,West,2,162.63,325.26,Net Banking
+2024-07-06,Home & Kitchen,West,5,158.54,792.68,Net Banking
+2024-07-06,Clothing,North,1,46.4,46.4,UPI
+2024-07-06,Clothing,East,1,86.91,86.91,UPI
+2024-07-06,Books,South,1,24.04,24.04,Debit Card
+2024-07-07,Electronics,North,3,315.91,947.74,UPI
+2024-07-07,Electronics,South,3,97.37,292.11,Net Banking
+2024-07-07,Electronics,North,3,278.55,835.66,Credit Card
+2024-07-08,Electronics,North,3,463.94,1391.83,Net Banking
+2024-07-08,Clothing,South,2,50.03,100.06,Credit Card
+2024-07-08,Home & Kitchen,North,3,41.63,124.89,Net Banking
+2024-07-09,Books,North,4,45.79,183.16,Credit Card
+2024-07-09,Sports,North,3,123.32,369.95,Net Banking
+2024-07-09,Clothing,East,5,30.97,154.86,UPI
+2024-07-09,Clothing,East,1,55.19,55.19,Net Banking
+2024-07-10,Sports,North,5,71.61,358.05,Credit Card
+2024-07-10,Electronics,South,5,387.8,1939.01,UPI
+2024-07-10,Home & Kitchen,East,2,24.3,48.6,Debit Card
+2024-07-10,Clothing,West,5,69.42,347.08,Credit Card
+2024-07-10,Books,South,3,40.13,120.4,Credit Card
+2024-07-10,Home & Kitchen,North,3,171.53,514.59,Credit Card
+2024-07-10,Home & Kitchen,East,5,81.62,408.1,Net Banking
+2024-07-11,Sports,West,2,142.19,284.39,UPI
+2024-07-11,Clothing,East,3,80.29,240.86,Debit Card
+2024-07-11,Books,South,1,15.07,15.07,Net Banking
+2024-07-11,Books,West,1,35.79,35.79,Net Banking
+2024-07-11,Electronics,West,4,265.78,1063.13,Debit Card
+2024-07-12,Electronics,North,3,362.87,1088.6,Debit Card
+2024-07-12,Electronics,West,5,467.75,2338.76,UPI
+2024-07-12,Books,South,3,35.35,106.06,Net Banking
+2024-07-12,Electronics,West,4,123.77,495.08,Net Banking
+2024-07-13,Electronics,North,2,348.07,696.13,UPI
+2024-07-13,Electronics,North,1,446.77,446.77,UPI
+2024-07-13,Clothing,West,1,59.87,59.87,Credit Card
+2024-07-14,Books,North,5,42.13,210.66,Net Banking
+2024-07-14,Clothing,South,4,16.11,64.42,UPI
+2024-07-14,Sports,North,1,141.74,141.74,Credit Card
+2024-07-14,Electronics,West,1,155.11,155.11,UPI
+2024-07-14,Clothing,West,5,36.05,180.24,Credit Card
+2024-07-14,Clothing,East,2,34.54,69.09,Net Banking
+2024-07-14,Sports,East,2,132.09,264.18,Debit Card
+2024-07-15,Electronics,West,4,92.78,371.1,Credit Card
+2024-07-15,Electronics,North,5,457.63,2288.16,Debit Card
+2024-07-15,Home & Kitchen,East,5,108.92,544.61,UPI
+2024-07-15,Clothing,North,4,57.13,228.52,Debit Card
+2024-07-15,Electronics,East,2,180.45,360.89,Debit Card
+2024-07-16,Electronics,South,1,53.8,53.8,Net Banking
+2024-07-16,Clothing,South,2,34.06,68.13,Credit Card
+2024-07-16,Electronics,West,3,97.1,291.29,Net Banking
+2024-07-16,Clothing,West,1,21.39,21.39,Credit Card
+2024-07-16,Sports,West,5,125.39,626.96,Debit Card
+2024-07-16,Electronics,East,1,414.99,414.99,Credit Card
+2024-07-17,Home & Kitchen,North,1,40.48,40.48,Net Banking
+2024-07-17,Home & Kitchen,West,4,134.02,536.09,UPI
+2024-07-17,Electronics,West,4,396.16,1584.65,UPI
+2024-07-18,Home & Kitchen,South,2,46.12,92.24,Debit Card
+2024-07-18,Sports,South,3,32.14,96.42,Debit Card
+2024-07-18,Books,East,2,40.53,81.06,Net Banking
+2024-07-18,Electronics,East,5,107.83,539.16,Net Banking
+2024-07-18,Electronics,South,5,122.74,613.68,Debit Card
+2024-07-18,Books,South,5,27.55,137.73,Credit Card
+2024-07-18,Books,East,5,34.34,171.72,Credit Card
+2024-07-19,Electronics,West,4,181.58,726.3,Debit Card
+2024-07-19,Sports,West,4,129.93,519.7,Credit Card
+2024-07-19,Clothing,North,3,49.13,147.39,Net Banking
+2024-07-19,Home & Kitchen,South,3,101.8,305.39,UPI
+2024-07-20,Electronics,West,3,209.06,627.19,Debit Card
+2024-07-20,Electronics,South,2,290.07,580.13,Net Banking
+2024-07-20,Electronics,North,5,368.39,1841.93,UPI
+2024-07-20,Electronics,West,4,343.62,1374.47,Debit Card
+2024-07-20,Clothing,East,4,95.64,382.54,Debit Card
+2024-07-20,Clothing,North,1,35.47,35.47,Net Banking
+2024-07-21,Electronics,South,2,216.38,432.76,Net Banking
+2024-07-21,Electronics,West,3,477.77,1433.32,Net Banking
+2024-07-21,Clothing,South,2,91.95,183.9,Credit Card
+2024-07-22,Electronics,South,4,224.98,899.93,UPI
+2024-07-22,Clothing,South,5,25.66,128.31,UPI
+2024-07-22,Clothing,South,1,29.6,29.6,Debit Card
+2024-07-23,Sports,West,5,95.89,479.46,Credit Card
+2024-07-23,Home & Kitchen,South,4,91.32,365.3,Credit Card
+2024-07-23,Electronics,South,2,231.25,462.5,Credit Card
+2024-07-23,Clothing,East,1,72.14,72.14,Debit Card
+2024-07-23,Home & Kitchen,East,2,160.99,321.98,UPI
+2024-07-24,Clothing,East,3,98.87,296.61,UPI
+2024-07-24,Electronics,East,1,179.67,179.67,Net Banking
+2024-07-24,Electronics,North,3,150.72,452.15,Debit Card
+2024-07-25,Clothing,South,4,74.09,296.37,Debit Card
+2024-07-25,Books,North,3,14.44,43.31,Credit Card
+2024-07-25,Books,North,1,16.96,16.96,Net Banking
+2024-07-25,Electronics,West,1,215.15,215.15,Net Banking
+2024-07-25,Sports,North,2,69.94,139.89,UPI
+2024-07-25,Electronics,South,4,141.35,565.39,Debit Card
+2024-07-25,Clothing,East,5,19.18,95.89,UPI
+2024-07-26,Clothing,South,5,71.76,358.82,Debit Card
+2024-07-26,Books,South,2,20.07,40.15,UPI
+2024-07-26,Home & Kitchen,West,3,167.04,501.11,Credit Card
+2024-07-26,Clothing,West,4,24.18,96.71,Credit Card
+2024-07-27,Clothing,East,1,30.24,30.24,Credit Card
+2024-07-27,Books,East,5,30.42,152.08,Debit Card
+2024-07-27,Home & Kitchen,West,5,169.43,847.17,Net Banking
+2024-07-27,Electronics,North,2,166.57,333.13,Debit Card
+2024-07-28,Clothing,East,3,98.8,296.41,Debit Card
+2024-07-28,Sports,East,1,112.03,112.03,Debit Card
+2024-07-28,Electronics,South,5,421.39,2106.94,Credit Card
+2024-07-28,Home & Kitchen,South,5,103.24,516.21,Credit Card
+2024-07-28,Clothing,North,3,25.62,76.85,UPI
+2024-07-29,Books,South,5,31.94,159.68,Net Banking
+2024-07-29,Clothing,East,5,59.86,299.32,Credit Card
+2024-07-29,Electronics,North,4,393.62,1574.5,Credit Card
+2024-07-29,Electronics,West,1,384.59,384.59,Debit Card
+2024-07-29,Home & Kitchen,West,2,32.0,64.01,Debit Card
+2024-07-29,Home & Kitchen,West,5,129.08,645.41,Net Banking
+2024-07-30,Electronics,West,4,315.38,1261.51,Debit Card
+2024-07-30,Sports,North,2,33.31,66.62,Credit Card
+2024-07-30,Electronics,East,4,491.29,1965.17,Credit Card
+2024-07-30,Books,West,1,19.12,19.12,Debit Card
+2024-07-30,Electronics,West,3,364.09,1092.26,Net Banking
+2024-07-30,Electronics,North,4,161.04,644.15,Net Banking
+2024-07-31,Electronics,North,1,167.03,167.03,Net Banking
+2024-07-31,Electronics,South,1,362.67,362.67,Debit Card
+2024-07-31,Clothing,North,5,91.63,458.13,Net Banking
+2024-07-31,Electronics,East,3,325.11,975.33,Debit Card
+2024-07-31,Electronics,West,3,367.21,1101.63,Net Banking
+2024-08-01,Electronics,North,4,374.26,1497.06,Net Banking
+2024-08-01,Electronics,West,1,260.89,260.89,Credit Card
+2024-08-01,Home & Kitchen,East,1,129.57,129.57,Credit Card
+2024-08-01,Home & Kitchen,South,1,71.83,71.83,Credit Card
+2024-08-01,Home & Kitchen,South,5,107.01,535.05,Debit Card
+2024-08-01,Electronics,West,5,347.61,1738.06,UPI
+2024-08-01,Clothing,North,1,16.53,16.53,Net Banking
+2024-08-02,Electronics,West,4,380.35,1521.4,Credit Card
+2024-08-02,Home & Kitchen,West,4,40.79,163.17,UPI
+2024-08-02,Clothing,North,2,20.7,41.41,Credit Card
+2024-08-02,Electronics,East,5,357.73,1788.65,Credit Card
+2024-08-02,Clothing,East,4,47.96,191.84,Credit Card
+2024-08-02,Electronics,East,2,346.7,693.4,Credit Card
+2024-08-03,Electronics,North,2,393.26,786.52,Credit Card
+2024-08-03,Clothing,East,3,93.84,281.52,Credit Card
+2024-08-03,Electronics,North,2,437.55,875.11,Debit Card
+2024-08-03,Electronics,North,4,216.34,865.36,UPI
+2024-08-03,Clothing,South,2,16.27,32.55,Net Banking
+2024-08-03,Clothing,East,4,82.98,331.92,UPI
+2024-08-04,Electronics,North,5,180.14,900.68,UPI
+2024-08-04,Home & Kitchen,East,5,119.63,598.14,Net Banking
+2024-08-04,Sports,North,2,97.98,195.96,Net Banking
+2024-08-04,Clothing,North,4,28.24,112.96,Net Banking
+2024-08-05,Books,East,2,11.02,22.04,Net Banking
+2024-08-05,Electronics,East,2,65.42,130.84,Net Banking
+2024-08-05,Clothing,East,5,29.98,149.88,Net Banking
+2024-08-05,Clothing,South,5,59.52,297.6,Debit Card
+2024-08-05,Electronics,South,2,483.29,966.58,Credit Card
+2024-08-06,Home & Kitchen,South,1,153.93,153.93,Credit Card
+2024-08-06,Home & Kitchen,South,4,153.69,614.76,Net Banking
+2024-08-06,Electronics,West,1,420.65,420.65,Credit Card
+2024-08-06,Books,East,1,17.04,17.04,Credit Card
+2024-08-07,Clothing,East,4,25.27,101.07,UPI
+2024-08-07,Electronics,East,5,282.45,1412.23,UPI
+2024-08-07,Electronics,South,5,138.62,693.1,Net Banking
+2024-08-07,Clothing,East,5,36.52,182.61,Credit Card
+2024-08-07,Electronics,North,1,126.57,126.57,UPI
+2024-08-07,Sports,North,2,126.5,253.0,Net Banking
+2024-08-08,Clothing,North,3,16.37,49.11,Credit Card
+2024-08-08,Clothing,West,2,52.17,104.34,Credit Card
+2024-08-08,Electronics,North,3,271.7,815.11,Credit Card
+2024-08-08,Electronics,South,1,68.23,68.23,Credit Card
+2024-08-08,Clothing,North,4,79.55,318.21,Credit Card
+2024-08-08,Home & Kitchen,South,2,116.16,232.33,Net Banking
+2024-08-09,Clothing,East,2,18.56,37.12,UPI
+2024-08-09,Electronics,West,2,301.92,603.84,Credit Card
+2024-08-09,Clothing,South,5,59.67,298.37,Credit Card
+2024-08-09,Clothing,West,5,63.81,319.07,Debit Card
+2024-08-09,Books,South,3,35.96,107.89,Net Banking
+2024-08-10,Home & Kitchen,West,2,40.25,80.5,Debit Card
+2024-08-10,Clothing,North,1,94.76,94.76,UPI
+2024-08-10,Electronics,South,1,189.94,189.94,Net Banking
+2024-08-10,Clothing,East,1,19.41,19.41,Net Banking
+2024-08-10,Electronics,South,4,389.95,1559.79,Debit Card
+2024-08-11,Electronics,South,2,58.79,117.57,UPI
+2024-08-11,Home & Kitchen,West,1,169.05,169.05,Net Banking
+2024-08-11,Home & Kitchen,South,4,150.88,603.52,Credit Card
+2024-08-12,Home & Kitchen,West,5,156.04,780.21,Net Banking
+2024-08-12,Clothing,East,5,81.43,407.15,Net Banking
+2024-08-12,Electronics,North,2,304.17,608.34,Debit Card
+2024-08-12,Home & Kitchen,East,4,137.82,551.29,UPI
+2024-08-13,Home & Kitchen,East,3,129.39,388.16,Net Banking
+2024-08-13,Electronics,West,4,374.2,1496.78,Net Banking
+2024-08-13,Home & Kitchen,East,4,189.67,758.68,Debit Card
+2024-08-14,Home & Kitchen,West,4,112.69,450.75,Credit Card
+2024-08-14,Electronics,South,5,68.55,342.76,Net Banking
+2024-08-14,Clothing,North,1,64.26,64.26,Net Banking
+2024-08-15,Sports,South,3,124.35,373.05,Debit Card
+2024-08-15,Electronics,West,3,282.94,848.81,Net Banking
+2024-08-15,Clothing,South,2,62.63,125.26,Net Banking
+2024-08-16,Home & Kitchen,West,1,195.69,195.69,UPI
+2024-08-16,Electronics,South,4,478.91,1915.62,Credit Card
+2024-08-16,Clothing,East,1,95.04,95.04,Debit Card
+2024-08-17,Books,East,2,44.31,88.61,Net Banking
+2024-08-17,Clothing,East,3,77.97,233.9,UPI
+2024-08-17,Electronics,East,5,198.86,994.28,UPI
+2024-08-17,Sports,West,5,134.23,671.14,Debit Card
+2024-08-17,Electronics,West,1,88.81,88.81,Net Banking
+2024-08-17,Clothing,South,2,82.97,165.95,Debit Card
+2024-08-17,Home & Kitchen,West,3,121.25,363.76,Debit Card
+2024-08-18,Electronics,North,1,446.11,446.11,UPI
+2024-08-18,Home & Kitchen,East,1,113.75,113.75,Net Banking
+2024-08-18,Home & Kitchen,South,2,188.98,377.95,Debit Card
+2024-08-18,Electronics,North,3,238.94,716.83,Net Banking
+2024-08-18,Electronics,South,4,273.23,1092.94,UPI
+2024-08-18,Home & Kitchen,North,1,80.03,80.03,UPI
+2024-08-19,Books,East,1,11.21,11.21,Net Banking
+2024-08-19,Home & Kitchen,West,5,121.36,606.81,Debit Card
+2024-08-19,Clothing,South,1,54.06,54.06,UPI
+2024-08-19,Sports,West,4,36.66,146.64,Debit Card
+2024-08-20,Clothing,West,1,89.53,89.53,Debit Card
+2024-08-20,Clothing,South,3,82.31,246.94,UPI
+2024-08-20,Electronics,East,3,198.24,594.71,Debit Card
+2024-08-20,Electronics,East,1,181.12,181.12,Net Banking
+2024-08-20,Clothing,East,1,25.42,25.42,Credit Card
+2024-08-20,Clothing,South,3,25.75,77.25,Net Banking
+2024-08-21,Clothing,South,4,37.83,151.32,Debit Card
+2024-08-21,Home & Kitchen,East,5,63.6,317.98,Net Banking
+2024-08-21,Electronics,East,3,359.33,1077.98,Credit Card
+2024-08-21,Electronics,West,2,189.39,378.79,UPI
+2024-08-21,Clothing,West,1,21.78,21.78,Net Banking
+2024-08-21,Electronics,South,4,339.66,1358.62,Credit Card
+2024-08-22,Clothing,South,5,71.82,359.11,Credit Card
+2024-08-22,Electronics,North,1,272.78,272.78,Net Banking
+2024-08-22,Electronics,West,1,228.76,228.76,UPI
+2024-08-22,Sports,West,3,51.21,153.62,Credit Card
+2024-08-22,Books,South,2,43.74,87.49,Credit Card
+2024-08-22,Sports,East,1,104.08,104.08,Debit Card
+2024-08-22,Sports,South,3,32.29,96.86,UPI
+2024-08-23,Home & Kitchen,West,1,40.23,40.23,Credit Card
+2024-08-23,Electronics,West,2,280.95,561.89,Credit Card
+2024-08-23,Electronics,North,5,137.3,686.49,UPI
+2024-08-23,Books,West,2,19.87,39.74,Net Banking
+2024-08-23,Clothing,South,4,30.15,120.61,Credit Card
+2024-08-24,Books,West,5,49.94,249.72,Debit Card
+2024-08-24,Home & Kitchen,South,1,43.23,43.23,Debit Card
+2024-08-24,Electronics,East,1,190.46,190.46,Net Banking
+2024-08-24,Home & Kitchen,West,1,74.96,74.96,Credit Card
+2024-08-24,Books,South,5,25.01,125.05,UPI
+2024-08-24,Electronics,West,5,429.89,2149.47,Debit Card
+2024-08-25,Home & Kitchen,South,5,49.63,248.16,Credit Card
+2024-08-25,Clothing,East,4,66.11,264.45,UPI
+2024-08-25,Books,West,3,43.01,129.02,Net Banking
+2024-08-26,Clothing,South,5,52.96,264.81,UPI
+2024-08-26,Home & Kitchen,North,5,144.18,720.91,Credit Card
+2024-08-26,Sports,West,3,45.02,135.07,Credit Card
+2024-08-27,Books,East,1,35.51,35.51,UPI
+2024-08-27,Home & Kitchen,North,4,109.16,436.63,UPI
+2024-08-27,Electronics,North,2,477.74,955.48,Debit Card
+2024-08-28,Electronics,East,4,295.04,1180.16,Credit Card
+2024-08-28,Electronics,South,2,288.25,576.49,Credit Card
+2024-08-28,Home & Kitchen,North,4,51.03,204.12,UPI
+2024-08-28,Sports,West,5,121.81,609.05,Credit Card
+2024-08-29,Electronics,West,4,261.08,1044.31,Net Banking
+2024-08-29,Clothing,West,1,77.34,77.34,Debit Card
+2024-08-29,Electronics,South,5,403.83,2019.16,UPI
+2024-08-29,Home & Kitchen,East,2,109.31,218.62,Net Banking
+2024-08-29,Electronics,South,4,221.07,884.27,Credit Card
+2024-08-30,Sports,West,3,47.58,142.75,UPI
+2024-08-30,Clothing,South,5,25.87,129.34,Net Banking
+2024-08-30,Clothing,South,2,48.87,97.75,Credit Card
+2024-08-30,Electronics,North,5,422.52,2112.61,Credit Card
+2024-08-31,Electronics,West,3,487.37,1462.1,Debit Card
+2024-08-31,Sports,West,3,99.42,298.26,Credit Card
+2024-08-31,Books,East,5,21.79,108.97,Net Banking
+2024-08-31,Electronics,North,5,321.35,1606.76,Debit Card
+2024-08-31,Electronics,East,2,352.52,705.04,UPI
+2024-08-31,Electronics,West,2,364.6,729.2,Net Banking
+2024-08-31,Sports,South,1,118.08,118.08,Credit Card
+2024-09-01,Clothing,North,5,58.78,293.91,Net Banking
+2024-09-01,Clothing,South,4,58.13,232.51,Debit Card
+2024-09-01,Clothing,West,5,54.3,271.5,Net Banking
+2024-09-01,Electronics,East,3,227.01,681.03,UPI
+2024-09-01,Home & Kitchen,East,1,140.94,140.94,Credit Card
+2024-09-01,Sports,West,2,77.72,155.44,Credit Card
+2024-09-01,Electronics,South,5,380.25,1901.26,Credit Card
+2024-09-02,Home & Kitchen,North,5,56.81,284.04,Net Banking
+2024-09-02,Electronics,East,4,191.11,764.44,Debit Card
+2024-09-02,Home & Kitchen,East,4,169.73,678.91,UPI
+2024-09-02,Home & Kitchen,East,1,39.17,39.17,Credit Card
+2024-09-03,Sports,East,1,115.72,115.72,UPI
+2024-09-03,Home & Kitchen,East,3,156.96,470.88,UPI
+2024-09-03,Books,East,1,30.58,30.58,UPI
+2024-09-03,Electronics,West,4,214.36,857.44,Debit Card
+2024-09-03,Books,West,3,40.52,121.56,Credit Card
+2024-09-03,Electronics,North,4,307.92,1231.67,UPI
+2024-09-04,Electronics,West,1,301.95,301.95,UPI
+2024-09-04,Clothing,West,2,81.07,162.14,Net Banking
+2024-09-04,Clothing,West,4,76.33,305.33,UPI
+2024-09-05,Books,South,4,19.97,79.87,UPI
+2024-09-05,Home & Kitchen,South,4,64.09,256.37,Credit Card
+2024-09-05,Books,South,4,42.61,170.43,UPI
+2024-09-05,Home & Kitchen,North,4,30.03,120.13,UPI
+2024-09-05,Clothing,South,5,49.03,245.14,UPI
+2024-09-05,Sports,East,5,60.76,303.79,Credit Card
+2024-09-05,Clothing,East,2,57.19,114.37,UPI
+2024-09-06,Books,South,5,21.16,105.79,Debit Card
+2024-09-06,Home & Kitchen,West,4,149.4,597.61,Credit Card
+2024-09-06,Home & Kitchen,North,4,94.58,378.3,UPI
+2024-09-07,Sports,South,2,27.29,54.58,Debit Card
+2024-09-07,Electronics,West,1,117.43,117.43,Debit Card
+2024-09-07,Clothing,North,1,67.2,67.2,Credit Card
+2024-09-07,Sports,North,4,62.94,251.76,Net Banking
+2024-09-08,Clothing,North,5,31.91,159.54,Net Banking
+2024-09-08,Electronics,West,4,171.41,685.63,Credit Card
+2024-09-08,Clothing,West,4,42.07,168.28,UPI
+2024-09-08,Sports,South,3,114.44,343.31,Credit Card
+2024-09-09,Home & Kitchen,North,3,187.85,563.55,UPI
+2024-09-09,Clothing,South,3,66.28,198.85,Credit Card
+2024-09-09,Home & Kitchen,West,1,107.31,107.31,Debit Card
+2024-09-09,Electronics,North,1,228.87,228.87,UPI
+2024-09-10,Clothing,East,1,46.32,46.32,UPI
+2024-09-10,Home & Kitchen,South,2,21.25,42.5,Debit Card
+2024-09-10,Electronics,South,4,53.7,214.8,Debit Card
+2024-09-10,Home & Kitchen,South,1,130.93,130.93,Net Banking
+2024-09-10,Electronics,North,4,303.22,1212.88,Credit Card
+2024-09-11,Home & Kitchen,East,5,197.34,986.69,Debit Card
+2024-09-11,Sports,North,4,64.59,258.36,Net Banking
+2024-09-11,Electronics,West,5,323.84,1619.2,Debit Card
+2024-09-11,Home & Kitchen,East,3,35.61,106.84,Debit Card
+2024-09-12,Home & Kitchen,East,1,82.64,82.64,Debit Card
+2024-09-12,Clothing,South,1,79.37,79.37,UPI
+2024-09-12,Clothing,North,4,65.08,260.3,Debit Card
+2024-09-12,Sports,South,5,92.7,463.5,Net Banking
+2024-09-12,Home & Kitchen,South,1,24.36,24.36,Credit Card
+2024-09-12,Home & Kitchen,West,3,23.69,71.08,UPI
+2024-09-13,Electronics,North,2,431.05,862.1,UPI
+2024-09-13,Home & Kitchen,West,4,168.93,675.72,Credit Card
+2024-09-13,Clothing,North,5,68.12,340.59,UPI
+2024-09-13,Books,West,2,29.6,59.19,Credit Card
+2024-09-13,Electronics,South,3,455.63,1366.89,Net Banking
+2024-09-14,Electronics,North,1,250.46,250.46,Net Banking
+2024-09-14,Clothing,South,3,79.83,239.48,Debit Card
+2024-09-14,Home & Kitchen,East,4,79.96,319.82,UPI
+2024-09-14,Electronics,North,5,333.68,1668.4,Credit Card
+2024-09-14,Sports,North,5,51.47,257.37,Credit Card
+2024-09-15,Clothing,North,1,69.79,69.79,Net Banking
+2024-09-15,Books,East,2,30.09,60.18,Net Banking
+2024-09-15,Home & Kitchen,East,2,66.87,133.74,Debit Card
+2024-09-15,Home & Kitchen,East,5,88.9,444.51,UPI
+2024-09-15,Clothing,West,4,43.28,173.11,Credit Card
+2024-09-16,Clothing,East,3,97.19,291.58,Net Banking
+2024-09-16,Electronics,South,1,466.76,466.76,Credit Card
+2024-09-16,Books,South,3,38.54,115.61,Debit Card
+2024-09-16,Electronics,West,5,229.08,1145.39,Debit Card
+2024-09-16,Sports,North,3,125.05,375.15,Credit Card
+2024-09-16,Home & Kitchen,South,1,198.46,198.46,Debit Card
+2024-09-16,Sports,South,3,127.61,382.84,UPI
+2024-09-17,Clothing,West,3,25.88,77.63,UPI
+2024-09-17,Sports,West,5,31.69,158.47,Debit Card
+2024-09-17,Home & Kitchen,East,2,162.23,324.46,Net Banking
+2024-09-17,Electronics,West,2,488.24,976.49,Credit Card
+2024-09-17,Electronics,West,5,90.05,450.26,UPI
+2024-09-17,Clothing,West,2,27.08,54.15,Debit Card
+2024-09-18,Electronics,East,4,140.56,562.25,UPI
+2024-09-18,Home & Kitchen,South,4,30.36,121.45,UPI
+2024-09-18,Clothing,South,4,66.13,264.53,Credit Card
+2024-09-18,Clothing,East,3,68.8,206.41,Net Banking
+2024-09-19,Books,West,1,15.71,15.71,UPI
+2024-09-19,Home & Kitchen,East,1,190.82,190.82,Credit Card
+2024-09-19,Clothing,West,1,66.74,66.74,Net Banking
+2024-09-19,Books,West,3,41.41,124.22,UPI
+2024-09-20,Electronics,West,5,364.01,1820.04,Net Banking
+2024-09-20,Clothing,West,5,86.44,432.19,UPI
+2024-09-20,Books,West,5,36.4,181.99,Debit Card
+2024-09-20,Clothing,South,4,73.97,295.87,Debit Card
+2024-09-20,Electronics,East,3,326.09,978.26,Debit Card
+2024-09-20,Electronics,East,2,416.49,832.98,Credit Card
+2024-09-21,Clothing,North,5,92.47,462.37,UPI
+2024-09-21,Clothing,East,2,67.97,135.94,Debit Card
+2024-09-21,Clothing,South,4,96.48,385.91,Credit Card
+2024-09-22,Electronics,North,2,426.16,852.32,Debit Card
+2024-09-22,Books,West,3,33.6,100.81,Credit Card
+2024-09-22,Electronics,North,3,79.67,239.0,Net Banking
+2024-09-22,Books,North,1,35.88,35.88,Net Banking
+2024-09-22,Home & Kitchen,West,4,127.84,511.37,UPI
+2024-09-23,Clothing,South,3,75.7,227.09,Debit Card
+2024-09-23,Books,South,5,13.61,68.06,Net Banking
+2024-09-23,Clothing,South,3,29.52,88.57,Net Banking
+2024-09-23,Home & Kitchen,North,3,92.34,277.03,UPI
+2024-09-23,Home & Kitchen,West,3,122.6,367.79,Debit Card
+2024-09-23,Electronics,East,5,498.75,2493.76,UPI
+2024-09-23,Electronics,South,3,183.56,550.68,UPI
+2024-09-24,Electronics,West,1,220.48,220.48,Debit Card
+2024-09-24,Electronics,North,3,411.2,1233.61,UPI
+2024-09-24,Electronics,South,3,200.63,601.88,Credit Card
+2024-09-24,Electronics,North,1,460.07,460.07,UPI
+2024-09-24,Home & Kitchen,West,5,187.49,937.43,Debit Card
+2024-09-24,Clothing,West,4,29.69,118.75,Net Banking
+2024-09-25,Sports,South,4,71.04,284.16,Credit Card
+2024-09-25,Clothing,West,1,75.97,75.97,Credit Card
+2024-09-25,Clothing,North,2,21.3,42.61,Net Banking
+2024-09-25,Home & Kitchen,South,3,109.41,328.23,Debit Card
+2024-09-25,Clothing,West,5,54.99,274.96,UPI
+2024-09-25,Home & Kitchen,North,2,37.86,75.71,Debit Card
+2024-09-26,Electronics,East,4,443.77,1775.06,Debit Card
+2024-09-26,Sports,East,1,124.84,124.84,Net Banking
+2024-09-26,Electronics,South,2,107.72,215.45,Net Banking
+2024-09-26,Electronics,East,1,109.85,109.85,Net Banking
+2024-09-26,Clothing,East,2,22.98,45.96,Debit Card
+2024-09-26,Electronics,North,1,137.94,137.94,UPI
+2024-09-26,Clothing,South,3,29.07,87.21,UPI
+2024-09-27,Electronics,South,3,409.34,1228.03,Net Banking
+2024-09-27,Clothing,North,3,34.46,103.39,UPI
+2024-09-27,Books,East,1,22.85,22.85,Net Banking
+2024-09-28,Books,South,5,11.91,59.57,Credit Card
+2024-09-28,Home & Kitchen,North,3,41.17,123.5,Credit Card
+2024-09-28,Sports,West,5,62.62,313.1,UPI
+2024-09-29,Books,South,2,38.9,77.79,UPI
+2024-09-29,Electronics,West,5,438.25,2191.27,Debit Card
+2024-09-29,Home & Kitchen,South,2,157.46,314.91,Credit Card
+2024-09-29,Books,West,2,16.64,33.28,Debit Card
+2024-09-29,Clothing,West,3,25.03,75.08,Credit Card
+2024-09-29,Books,North,4,14.27,57.08,Credit Card
+2024-09-30,Clothing,West,3,24.05,72.14,Credit Card
+2024-09-30,Sports,South,1,131.83,131.83,UPI
+2024-09-30,Clothing,South,3,23.26,69.78,Credit Card
+2024-09-30,Sports,East,5,94.6,473.0,UPI
+2024-10-01,Books,West,3,14.33,42.98,Debit Card
+2024-10-01,Electronics,North,3,142.27,426.82,UPI
+2024-10-01,Sports,East,2,37.53,75.06,Net Banking
+2024-10-02,Electronics,South,3,224.28,672.84,Credit Card
+2024-10-02,Electronics,South,2,434.97,869.94,Credit Card
+2024-10-02,Electronics,North,2,107.53,215.07,UPI
+2024-10-02,Home & Kitchen,South,5,187.3,936.48,Net Banking
+2024-10-02,Clothing,West,1,88.02,88.02,Net Banking
+2024-10-02,Home & Kitchen,South,2,24.57,49.13,Debit Card
+2024-10-03,Sports,North,3,121.89,365.68,UPI
+2024-10-03,Clothing,East,5,87.96,439.78,UPI
+2024-10-03,Clothing,East,3,72.81,218.44,UPI
+2024-10-03,Sports,West,4,140.72,562.87,UPI
+2024-10-03,Electronics,South,2,433.83,867.66,UPI
+2024-10-04,Sports,South,4,108.55,434.18,Debit Card
+2024-10-04,Home & Kitchen,West,3,122.48,367.44,UPI
+2024-10-04,Books,North,4,42.05,168.22,UPI
+2024-10-04,Home & Kitchen,East,1,186.81,186.81,Net Banking
+2024-10-05,Clothing,West,2,33.9,67.8,Credit Card
+2024-10-05,Home & Kitchen,South,3,192.85,578.54,Credit Card
+2024-10-05,Sports,West,2,33.96,67.92,Credit Card
+2024-10-05,Home & Kitchen,North,4,169.6,678.41,UPI
+2024-10-05,Electronics,North,4,88.53,354.13,UPI
+2024-10-06,Books,East,4,28.45,113.78,UPI
+2024-10-06,Clothing,South,1,26.34,26.34,Debit Card
+2024-10-06,Clothing,West,5,24.19,120.96,Credit Card
+2024-10-06,Electronics,East,2,72.11,144.21,UPI
+2024-10-06,Sports,East,2,117.91,235.82,UPI
+2024-10-06,Electronics,East,3,198.29,594.88,Net Banking
+2024-10-07,Home & Kitchen,West,1,27.2,27.2,Debit Card
+2024-10-07,Clothing,West,5,99.09,495.47,UPI
+2024-10-07,Clothing,South,5,60.25,301.24,Debit Card
+2024-10-07,Electronics,West,5,240.54,1202.71,Debit Card
+2024-10-07,Sports,West,5,115.31,576.54,Net Banking
+2024-10-08,Clothing,South,1,39.49,39.49,UPI
+2024-10-08,Electronics,South,2,359.68,719.36,UPI
+2024-10-08,Books,North,1,44.17,44.17,Debit Card
+2024-10-09,Home & Kitchen,East,3,189.75,569.25,UPI
+2024-10-09,Home & Kitchen,West,4,83.0,332.01,Debit Card
+2024-10-09,Electronics,East,2,429.5,859.0,Net Banking
+2024-10-09,Home & Kitchen,East,5,55.9,279.5,Debit Card
+2024-10-09,Clothing,West,3,71.72,215.15,Net Banking
+2024-10-09,Electronics,West,5,330.15,1650.76,Net Banking
+2024-10-10,Electronics,North,1,389.9,389.9,Credit Card
+2024-10-10,Electronics,West,5,131.27,656.34,UPI
+2024-10-10,Electronics,West,2,243.24,486.48,Credit Card
+2024-10-10,Sports,West,2,124.5,248.99,Debit Card
+2024-10-11,Home & Kitchen,North,5,115.24,576.19,Debit Card
+2024-10-11,Electronics,East,5,314.74,1573.69,UPI
+2024-10-11,Sports,East,1,137.58,137.58,UPI
+2024-10-12,Electronics,West,1,229.92,229.92,Debit Card
+2024-10-12,Electronics,West,4,353.39,1413.56,Debit Card
+2024-10-12,Electronics,West,3,185.01,555.04,Debit Card
+2024-10-12,Electronics,East,4,451.67,1806.68,UPI
+2024-10-12,Electronics,West,3,314.45,943.35,UPI
+2024-10-12,Electronics,North,1,188.96,188.96,Credit Card
+2024-10-12,Home & Kitchen,East,4,197.78,791.12,Net Banking
+2024-10-13,Clothing,South,1,66.18,66.18,Debit Card
+2024-10-13,Home & Kitchen,South,5,147.24,736.19,Debit Card
+2024-10-13,Books,South,3,23.59,70.78,UPI
+2024-10-13,Clothing,South,2,49.3,98.6,Debit Card
+2024-10-13,Books,West,1,33.87,33.87,Debit Card
+2024-10-13,Electronics,West,3,344.14,1032.41,Net Banking
+2024-10-13,Clothing,South,2,79.47,158.94,Debit Card
+2024-10-14,Home & Kitchen,North,1,63.53,63.53,Credit Card
+2024-10-14,Sports,North,3,119.44,358.31,UPI
+2024-10-14,Home & Kitchen,East,5,127.67,638.33,UPI
+2024-10-15,Electronics,West,5,325.44,1627.18,UPI
+2024-10-15,Clothing,North,1,51.09,51.09,Net Banking
+2024-10-15,Home & Kitchen,East,1,41.53,41.53,UPI
+2024-10-15,Electronics,North,3,466.49,1399.48,Credit Card
+2024-10-16,Electronics,East,2,85.83,171.65,Net Banking
+2024-10-16,Clothing,West,1,54.47,54.47,Net Banking
+2024-10-16,Sports,West,5,104.13,520.67,UPI
+2024-10-16,Home & Kitchen,East,1,168.75,168.75,Credit Card
+2024-10-17,Clothing,West,4,34.6,138.39,UPI
+2024-10-17,Home & Kitchen,West,1,143.0,143.0,Credit Card
+2024-10-17,Books,East,4,38.12,152.47,UPI
+2024-10-18,Sports,West,5,97.1,485.48,UPI
+2024-10-18,Electronics,East,4,162.36,649.42,UPI
+2024-10-18,Sports,North,3,58.84,176.53,Net Banking
+2024-10-18,Sports,North,3,38.66,115.97,Credit Card
+2024-10-18,Sports,South,3,72.7,218.09,Credit Card
+2024-10-18,Home & Kitchen,West,4,92.58,370.33,Debit Card
+2024-10-18,Books,South,2,32.22,64.44,Credit Card
+2024-10-19,Electronics,South,5,106.75,533.73,Net Banking
+2024-10-19,Home & Kitchen,West,2,33.15,66.3,Debit Card
+2024-10-19,Home & Kitchen,North,4,52.45,209.81,Debit Card
+2024-10-19,Home & Kitchen,East,5,42.01,210.06,Credit Card
+2024-10-19,Electronics,South,4,99.93,399.72,Debit Card
+2024-10-19,Books,East,1,16.06,16.06,Debit Card
+2024-10-20,Home & Kitchen,South,3,181.02,543.05,UPI
+2024-10-20,Home & Kitchen,West,5,105.1,525.52,UPI
+2024-10-20,Electronics,West,4,169.61,678.44,Net Banking
+2024-10-20,Electronics,North,3,412.54,1237.61,Debit Card
+2024-10-21,Electronics,East,4,157.54,630.18,UPI
+2024-10-21,Clothing,South,2,39.94,79.87,Debit Card
+2024-10-21,Home & Kitchen,South,2,81.72,163.44,Credit Card
+2024-10-21,Sports,East,3,121.01,363.03,Net Banking
+2024-10-21,Books,North,3,31.06,93.17,Net Banking
+2024-10-22,Books,South,5,34.35,171.74,Debit Card
+2024-10-22,Sports,North,4,122.72,490.87,Credit Card
+2024-10-22,Clothing,East,4,21.55,86.19,Net Banking
+2024-10-22,Sports,West,2,52.28,104.57,UPI
+2024-10-23,Books,East,4,40.24,160.97,Credit Card
+2024-10-23,Clothing,South,5,80.63,403.16,Credit Card
+2024-10-23,Clothing,West,3,61.89,185.67,Debit Card
+2024-10-23,Home & Kitchen,South,5,87.54,437.72,UPI
+2024-10-24,Clothing,South,3,49.23,147.7,Net Banking
+2024-10-24,Clothing,South,5,20.09,100.47,UPI
+2024-10-24,Books,East,1,22.27,22.27,UPI
+2024-10-25,Books,North,4,22.89,91.57,UPI
+2024-10-25,Clothing,East,1,28.79,28.79,Net Banking
+2024-10-25,Home & Kitchen,West,4,188.46,753.83,Credit Card
+2024-10-25,Electronics,South,4,362.42,1449.69,Credit Card
+2024-10-25,Home & Kitchen,North,4,112.58,450.31,UPI
+2024-10-25,Electronics,East,2,137.87,275.75,Net Banking
+2024-10-25,Clothing,North,4,23.05,92.19,Net Banking
+2024-10-26,Clothing,North,4,30.55,122.18,Credit Card
+2024-10-26,Clothing,South,4,39.7,158.79,Credit Card
+2024-10-26,Home & Kitchen,North,3,38.96,116.88,Debit Card
+2024-10-26,Electronics,West,2,149.9,299.8,Net Banking
+2024-10-26,Clothing,East,5,26.1,130.52,Net Banking
+2024-10-26,Electronics,South,2,499.59,999.18,UPI
+2024-10-27,Electronics,West,2,317.14,634.29,Net Banking
+2024-10-27,Sports,East,1,119.71,119.71,UPI
+2024-10-27,Home & Kitchen,North,4,132.76,531.04,Net Banking
+2024-10-27,Clothing,North,3,16.77,50.32,Net Banking
+2024-10-28,Clothing,South,4,94.63,378.5,Net Banking
+2024-10-28,Books,South,4,43.99,175.95,Credit Card
+2024-10-28,Sports,North,2,87.4,174.8,UPI
+2024-10-28,Clothing,West,3,62.66,187.98,Credit Card
+2024-10-28,Clothing,North,2,79.29,158.58,Net Banking
+2024-10-29,Books,East,5,44.96,224.81,Net Banking
+2024-10-29,Electronics,South,5,358.81,1794.06,UPI
+2024-10-29,Clothing,South,2,63.07,126.15,Net Banking
+2024-10-29,Electronics,West,2,366.97,733.95,UPI
+2024-10-29,Electronics,South,4,421.82,1687.26,Net Banking
+2024-10-29,Sports,North,3,113.12,339.36,Debit Card
+2024-10-30,Electronics,North,3,189.39,568.17,Credit Card
+2024-10-30,Electronics,North,2,160.74,321.49,Credit Card
+2024-10-30,Clothing,South,1,54.77,54.77,UPI
+2024-10-30,Clothing,West,5,97.26,486.32,UPI
+2024-10-31,Home & Kitchen,East,2,20.84,41.67,Net Banking
+2024-10-31,Sports,North,4,141.0,563.98,Net Banking
+2024-10-31,Clothing,South,5,24.8,124.0,Net Banking
+2024-10-31,Books,North,1,12.83,12.83,Debit Card
+2024-10-31,Home & Kitchen,East,5,140.18,700.91,Credit Card
+2024-10-31,Home & Kitchen,South,1,117.9,117.9,Debit Card
+2024-10-31,Electronics,East,2,138.56,277.11,UPI
+2024-11-01,Clothing,West,1,24.2,24.2,Debit Card
+2024-11-01,Home & Kitchen,South,3,23.12,69.36,Debit Card
+2024-11-01,Electronics,East,3,468.75,1406.26,Credit Card
+2024-11-01,Clothing,South,3,55.52,166.56,Credit Card
+2024-11-01,Clothing,North,2,62.07,124.14,Net Banking
+2024-11-02,Home & Kitchen,North,2,134.15,268.31,Credit Card
+2024-11-02,Home & Kitchen,North,5,153.69,768.46,Debit Card
+2024-11-02,Electronics,North,2,185.8,371.6,UPI
+2024-11-02,Electronics,West,4,170.38,681.52,UPI
+2024-11-02,Books,South,3,16.17,48.51,UPI
+2024-11-02,Clothing,West,3,71.97,215.92,UPI
+2024-11-03,Electronics,North,3,153.39,460.18,Debit Card
+2024-11-03,Home & Kitchen,West,2,136.73,273.46,UPI
+2024-11-03,Electronics,West,1,240.5,240.5,UPI
+2024-11-03,Clothing,South,2,64.62,129.23,Debit Card
+2024-11-04,Home & Kitchen,West,5,38.78,193.91,Net Banking
+2024-11-04,Home & Kitchen,North,3,129.0,386.99,UPI
+2024-11-04,Electronics,South,3,321.73,965.19,UPI
+2024-11-04,Books,North,5,33.55,167.76,Debit Card
+2024-11-04,Clothing,West,5,72.76,363.79,Credit Card
+2024-11-04,Books,West,5,38.73,193.65,Credit Card
+2024-11-04,Home & Kitchen,East,1,20.9,20.9,Debit Card
+2024-11-05,Clothing,North,3,54.58,163.73,UPI
+2024-11-05,Clothing,North,3,33.03,99.09,Credit Card
+2024-11-05,Books,North,4,47.09,188.36,UPI
+2024-11-06,Electronics,North,1,342.76,342.76,Debit Card
+2024-11-06,Clothing,South,4,84.99,339.97,UPI
+2024-11-06,Electronics,West,4,80.83,323.31,Credit Card
+2024-11-07,Electronics,North,4,68.4,273.6,Debit Card
+2024-11-07,Sports,West,2,120.64,241.28,Debit Card
+2024-11-07,Books,North,3,45.57,136.71,UPI
+2024-11-07,Sports,East,3,98.69,296.06,Credit Card
+2024-11-08,Clothing,West,3,96.49,289.47,UPI
+2024-11-08,Home & Kitchen,South,5,91.89,459.46,UPI
+2024-11-08,Books,West,5,41.6,208.01,Debit Card
+2024-11-08,Electronics,South,5,72.08,360.38,UPI
+2024-11-08,Home & Kitchen,North,2,138.75,277.5,Debit Card
+2024-11-09,Books,South,1,17.76,17.76,Net Banking
+2024-11-09,Books,South,2,29.33,58.66,Credit Card
+2024-11-09,Clothing,South,3,68.81,206.44,UPI
+2024-11-10,Clothing,North,3,48.71,146.14,Debit Card
+2024-11-10,Books,South,3,39.92,119.77,Net Banking
+2024-11-10,Electronics,South,1,57.1,57.1,Net Banking
+2024-11-11,Sports,North,4,25.46,101.86,UPI
+2024-11-11,Electronics,West,1,287.63,287.63,Credit Card
+2024-11-11,Electronics,North,3,104.18,312.54,Debit Card
+2024-11-11,Clothing,North,3,75.78,227.33,Debit Card
+2024-11-11,Sports,West,3,132.35,397.04,Credit Card
+2024-11-12,Electronics,North,1,163.44,163.44,UPI
+2024-11-12,Electronics,South,2,279.95,559.91,Net Banking
+2024-11-12,Books,North,2,32.7,65.4,Debit Card
+2024-11-12,Home & Kitchen,West,1,72.0,72.0,UPI
+2024-11-13,Electronics,South,1,111.51,111.51,UPI
+2024-11-13,Electronics,South,3,295.72,887.16,Credit Card
+2024-11-13,Books,East,2,18.46,36.92,UPI
+2024-11-13,Electronics,North,5,195.54,977.71,Credit Card
+2024-11-13,Sports,North,1,27.07,27.07,Net Banking
+2024-11-14,Home & Kitchen,South,3,175.51,526.54,Net Banking
+2024-11-14,Electronics,North,3,244.69,734.07,Debit Card
+2024-11-14,Electronics,East,3,453.3,1359.91,UPI
+2024-11-14,Clothing,South,1,70.53,70.53,Debit Card
+2024-11-14,Home & Kitchen,North,5,34.16,170.82,Net Banking
+2024-11-14,Electronics,South,5,409.68,2048.4,UPI
+2024-11-14,Clothing,North,5,40.71,203.55,Debit Card
+2024-11-15,Home & Kitchen,South,5,161.17,805.86,UPI
+2024-11-15,Electronics,North,1,296.43,296.43,Debit Card
+2024-11-15,Clothing,North,3,28.63,85.89,Debit Card
+2024-11-15,Sports,East,5,135.18,675.92,Net Banking
+2024-11-15,Home & Kitchen,North,2,69.53,139.06,Debit Card
+2024-11-16,Home & Kitchen,East,3,167.72,503.16,Net Banking
+2024-11-16,Books,South,4,39.53,158.11,UPI
+2024-11-16,Sports,West,1,132.46,132.46,UPI
+2024-11-16,Sports,East,2,34.86,69.71,Net Banking
+2024-11-16,Electronics,South,5,175.32,876.59,Debit Card
+2024-11-16,Electronics,North,1,231.81,231.81,Credit Card
+2024-11-17,Electronics,South,2,227.57,455.14,Credit Card
+2024-11-17,Electronics,East,5,277.36,1386.82,Credit Card
+2024-11-17,Clothing,East,4,88.3,353.18,Credit Card
+2024-11-17,Home & Kitchen,East,1,155.58,155.58,UPI
+2024-11-17,Home & Kitchen,South,5,179.79,898.94,UPI
+2024-11-17,Books,East,3,39.36,118.09,UPI
+2024-11-17,Books,South,1,21.37,21.37,Net Banking
+2024-11-18,Books,North,2,12.0,24.0,UPI
+2024-11-18,Clothing,East,2,22.86,45.71,UPI
+2024-11-18,Clothing,West,4,22.2,88.79,UPI
+2024-11-18,Sports,East,2,94.95,189.9,UPI
+2024-11-18,Home & Kitchen,North,2,125.96,251.91,Debit Card
+2024-11-19,Books,North,2,10.78,21.55,Credit Card
+2024-11-19,Books,North,3,24.93,74.8,Net Banking
+2024-11-19,Electronics,West,5,378.59,1892.94,Credit Card
+2024-11-19,Sports,West,1,127.57,127.57,Credit Card
+2024-11-19,Clothing,North,2,93.58,187.15,UPI
+2024-11-19,Books,West,4,37.8,151.21,Debit Card
+2024-11-19,Home & Kitchen,South,5,191.97,959.87,UPI
+2024-11-20,Electronics,East,4,245.74,982.97,Debit Card
+2024-11-20,Books,East,5,21.49,107.47,Debit Card
+2024-11-20,Electronics,North,5,498.13,2490.65,Credit Card
+2024-11-21,Electronics,East,1,181.15,181.15,Net Banking
+2024-11-21,Books,West,2,26.7,53.4,Debit Card
+2024-11-21,Home & Kitchen,East,2,114.13,228.26,UPI
+2024-11-21,Sports,East,1,86.49,86.49,Net Banking
+2024-11-22,Clothing,West,3,43.82,131.46,Credit Card
+2024-11-22,Home & Kitchen,South,5,92.13,460.63,UPI
+2024-11-22,Clothing,East,3,51.17,153.5,Credit Card
+2024-11-22,Sports,East,5,119.39,596.96,Debit Card
+2024-11-22,Books,North,4,13.21,52.83,Debit Card
+2024-11-23,Electronics,North,2,125.32,250.63,UPI
+2024-11-23,Books,East,2,15.87,31.73,Net Banking
+2024-11-23,Electronics,North,2,415.9,831.81,Net Banking
+2024-11-23,Sports,South,2,88.31,176.62,Credit Card
+2024-11-23,Books,South,5,27.62,138.11,Credit Card
+2024-11-24,Clothing,North,4,70.93,283.7,Credit Card
+2024-11-24,Electronics,North,4,367.44,1469.78,UPI
+2024-11-24,Books,South,5,43.98,219.88,Net Banking
+2024-11-24,Electronics,East,2,103.97,207.95,Debit Card
+2024-11-24,Sports,West,5,116.32,581.6,Net Banking
+2024-11-25,Books,North,1,49.29,49.29,Credit Card
+2024-11-25,Electronics,North,3,181.97,545.91,Net Banking
+2024-11-25,Books,East,4,41.14,164.55,UPI
+2024-11-25,Books,South,1,44.7,44.7,Debit Card
+2024-11-25,Electronics,East,2,405.35,810.7,Net Banking
+2024-11-25,Books,North,1,17.24,17.24,UPI
+2024-11-25,Home & Kitchen,East,4,176.04,704.15,Debit Card
+2024-11-26,Electronics,East,2,140.38,280.77,Net Banking
+2024-11-26,Clothing,North,1,46.09,46.09,Credit Card
+2024-11-26,Clothing,North,5,29.86,149.31,Net Banking
+2024-11-26,Electronics,North,3,198.17,594.52,Debit Card
+2024-11-27,Books,North,2,24.47,48.93,UPI
+2024-11-27,Home & Kitchen,East,4,115.32,461.3,Debit Card
+2024-11-27,Electronics,North,2,171.69,343.38,Debit Card
+2024-11-27,Books,South,5,37.8,188.99,Debit Card
+2024-11-27,Electronics,South,5,438.13,2190.63,Net Banking
+2024-11-28,Clothing,West,2,80.13,160.26,UPI
+2024-11-28,Electronics,East,5,128.14,640.69,Debit Card
+2024-11-28,Home & Kitchen,North,1,143.27,143.27,Net Banking
+2024-11-28,Home & Kitchen,East,1,176.02,176.02,Credit Card
+2024-11-28,Books,West,2,47.51,95.03,UPI
+2024-11-28,Books,North,5,14.49,72.45,Net Banking
+2024-11-28,Sports,North,1,35.36,35.36,Net Banking
+2024-11-29,Clothing,South,4,74.79,299.15,Net Banking
+2024-11-29,Clothing,West,2,19.97,39.95,Credit Card
+2024-11-29,Books,North,1,26.77,26.77,Net Banking
+2024-11-29,Clothing,South,1,30.91,30.91,UPI
+2024-11-30,Clothing,South,3,46.06,138.17,Debit Card
+2024-11-30,Clothing,East,1,30.8,30.8,UPI
+2024-11-30,Books,South,3,44.21,132.64,Debit Card
+2024-11-30,Electronics,North,4,85.42,341.68,Net Banking
+2024-11-30,Books,West,5,27.55,137.75,Net Banking
+2024-12-01,Home & Kitchen,South,2,97.82,195.65,Net Banking
+2024-12-01,Home & Kitchen,West,1,152.15,152.15,Net Banking
+2024-12-01,Electronics,South,2,376.59,753.18,Credit Card
+2024-12-01,Clothing,West,3,32.97,98.92,Net Banking
+2024-12-01,Electronics,West,3,137.59,412.76,Credit Card
+2024-12-01,Electronics,South,4,338.84,1355.37,Net Banking
+2024-12-02,Clothing,West,5,29.83,149.14,Net Banking
+2024-12-02,Books,North,5,31.3,156.5,UPI
+2024-12-02,Clothing,South,2,92.48,184.97,UPI
+2024-12-02,Home & Kitchen,North,1,134.08,134.08,Net Banking
+2024-12-02,Sports,West,5,37.36,186.82,Credit Card
+2024-12-03,Electronics,East,5,379.44,1897.22,Credit Card
+2024-12-03,Clothing,South,3,70.38,211.15,Debit Card
+2024-12-03,Home & Kitchen,South,1,174.15,174.15,Credit Card
+2024-12-03,Clothing,East,1,98.65,98.65,Credit Card
+2024-12-03,Electronics,West,2,167.38,334.75,UPI
+2024-12-04,Electronics,South,3,183.8,551.41,Net Banking
+2024-12-04,Clothing,North,5,15.22,76.11,Net Banking
+2024-12-04,Books,North,1,48.8,48.8,UPI
+2024-12-04,Books,West,2,24.42,48.85,UPI
+2024-12-04,Books,South,5,32.15,160.74,Debit Card
+2024-12-04,Home & Kitchen,North,1,21.31,21.31,UPI
+2024-12-05,Home & Kitchen,North,4,178.91,715.62,UPI
+2024-12-05,Electronics,South,5,364.9,1824.48,Net Banking
+2024-12-05,Home & Kitchen,North,5,170.55,852.73,Debit Card
+2024-12-05,Books,North,2,18.16,36.31,Net Banking
+2024-12-05,Electronics,North,1,224.61,224.61,UPI
+2024-12-05,Home & Kitchen,North,1,179.9,179.9,Debit Card
+2024-12-06,Books,West,4,12.62,50.49,Net Banking
+2024-12-06,Clothing,West,1,97.92,97.92,Net Banking
+2024-12-06,Home & Kitchen,North,2,74.07,148.13,UPI
+2024-12-06,Sports,North,2,78.62,157.24,Debit Card
+2024-12-07,Books,East,3,49.66,148.98,Net Banking
+2024-12-07,Home & Kitchen,South,3,139.08,417.24,Net Banking
+2024-12-07,Electronics,North,2,416.69,833.38,Net Banking
+2024-12-07,Electronics,West,5,350.08,1750.38,UPI
+2024-12-07,Books,East,4,28.68,114.72,Credit Card
+2024-12-08,Sports,West,3,40.28,120.84,Debit Card
+2024-12-08,Books,West,3,25.75,77.24,Net Banking
+2024-12-08,Clothing,North,2,47.42,94.83,Credit Card
+2024-12-08,Electronics,East,1,148.63,148.63,Credit Card
+2024-12-09,Clothing,North,4,33.4,133.59,Credit Card
+2024-12-09,Books,West,2,32.24,64.49,Net Banking
+2024-12-09,Clothing,South,4,48.65,194.61,Debit Card
+2024-12-09,Home & Kitchen,West,4,194.36,777.44,Debit Card
+2024-12-09,Electronics,South,2,487.32,974.64,Net Banking
+2024-12-10,Electronics,West,4,464.18,1856.7,Debit Card
+2024-12-10,Electronics,East,3,337.85,1013.54,UPI
+2024-12-10,Home & Kitchen,North,5,96.14,480.71,Debit Card
+2024-12-10,Clothing,North,4,85.26,341.03,Net Banking
+2024-12-10,Electronics,North,2,430.3,860.6,Debit Card
+2024-12-11,Sports,South,3,97.16,291.49,Credit Card
+2024-12-11,Home & Kitchen,East,5,105.62,528.09,UPI
+2024-12-11,Home & Kitchen,West,2,141.44,282.89,UPI
+2024-12-11,Books,North,1,25.27,25.27,Credit Card
+2024-12-11,Books,East,5,31.54,157.7,Credit Card
+2024-12-11,Electronics,North,5,123.82,619.09,Net Banking
+2024-12-12,Clothing,North,1,55.95,55.95,UPI
+2024-12-12,Clothing,South,2,98.63,197.25,Debit Card
+2024-12-12,Electronics,South,2,262.68,525.35,Debit Card
+2024-12-12,Books,East,4,14.4,57.6,Credit Card
+2024-12-13,Clothing,South,3,81.75,245.26,Net Banking
+2024-12-13,Home & Kitchen,East,2,45.71,91.43,Net Banking
+2024-12-13,Electronics,North,5,413.45,2067.23,UPI
+2024-12-14,Electronics,North,2,133.68,267.37,UPI
+2024-12-14,Electronics,North,5,356.03,1780.13,Debit Card
+2024-12-14,Books,West,3,19.38,58.15,Net Banking
+2024-12-14,Home & Kitchen,South,1,167.47,167.47,Net Banking
+2024-12-14,Electronics,North,2,270.55,541.1,Net Banking
+2024-12-15,Clothing,South,3,89.74,269.23,UPI
+2024-12-15,Books,South,3,40.74,122.22,Debit Card
+2024-12-15,Books,North,3,20.11,60.34,Credit Card
+2024-12-15,Books,West,4,49.11,196.43,Debit Card
+2024-12-15,Books,West,4,20.86,83.43,UPI
+2024-12-15,Electronics,West,3,259.04,777.12,Net Banking
+2024-12-15,Electronics,East,2,104.59,209.17,Credit Card
+2024-12-16,Clothing,South,4,48.89,195.54,Debit Card
+2024-12-16,Clothing,South,3,54.4,163.21,Debit Card
+2024-12-16,Electronics,West,3,377.27,1131.81,Debit Card
+2024-12-16,Sports,North,3,34.03,102.1,Debit Card
+2024-12-17,Clothing,West,3,40.25,120.76,Debit Card
+2024-12-17,Home & Kitchen,North,2,78.04,156.08,UPI
+2024-12-17,Home & Kitchen,East,5,82.28,411.38,Debit Card
+2024-12-17,Clothing,West,4,81.81,327.24,UPI
+2024-12-17,Electronics,West,2,163.83,327.66,UPI
+2024-12-18,Home & Kitchen,West,2,166.45,332.91,UPI
+2024-12-18,Clothing,West,2,73.78,147.57,Debit Card
+2024-12-18,Electronics,West,1,263.09,263.09,Net Banking
+2024-12-18,Clothing,West,3,78.4,235.21,UPI
+2024-12-18,Home & Kitchen,West,2,145.36,290.72,Net Banking
+2024-12-19,Home & Kitchen,West,1,70.19,70.19,Net Banking
+2024-12-19,Electronics,South,2,289.58,579.16,Credit Card
+2024-12-19,Books,North,1,24.52,24.52,Net Banking
+2024-12-19,Clothing,West,2,80.38,160.77,Credit Card
+2024-12-19,Books,North,4,40.39,161.57,UPI
+2024-12-20,Home & Kitchen,North,3,91.42,274.25,Credit Card
+2024-12-20,Home & Kitchen,East,3,138.75,416.25,Credit Card
+2024-12-20,Electronics,East,5,437.91,2189.54,Net Banking
+2024-12-20,Books,South,3,12.98,38.93,UPI
+2024-12-21,Clothing,East,5,77.64,388.19,UPI
+2024-12-21,Home & Kitchen,East,2,69.67,139.33,Debit Card
+2024-12-21,Home & Kitchen,North,1,108.1,108.1,UPI
+2024-12-21,Electronics,North,1,395.76,395.76,Net Banking
+2024-12-21,Electronics,North,1,424.95,424.95,UPI
+2024-12-21,Home & Kitchen,North,1,125.96,125.96,UPI
+2024-12-21,Clothing,South,1,86.48,86.48,Credit Card
+2024-12-22,Books,West,1,21.01,21.01,Debit Card
+2024-12-22,Home & Kitchen,West,1,41.73,41.73,UPI
+2024-12-22,Electronics,West,3,146.64,439.93,Net Banking
+2024-12-22,Electronics,North,4,414.16,1656.63,Credit Card
+2024-12-22,Clothing,North,1,49.51,49.51,Net Banking
+2024-12-22,Clothing,West,5,69.52,347.62,UPI
+2024-12-22,Clothing,West,1,78.73,78.73,UPI
+2024-12-23,Home & Kitchen,West,5,196.29,981.46,Debit Card
+2024-12-23,Electronics,North,1,284.5,284.5,Net Banking
+2024-12-23,Clothing,South,4,77.21,308.85,Net Banking
+2024-12-24,Electronics,East,1,466.94,466.94,UPI
+2024-12-24,Clothing,North,3,71.59,214.77,Debit Card
+2024-12-24,Home & Kitchen,South,2,176.67,353.35,Credit Card
+2024-12-24,Books,West,3,30.83,92.48,Debit Card
+2024-12-24,Electronics,East,4,191.83,767.34,Net Banking
+2024-12-25,Electronics,West,4,332.3,1329.18,Credit Card
+2024-12-25,Electronics,East,1,327.37,327.37,Net Banking
+2024-12-25,Home & Kitchen,South,2,67.96,135.93,Debit Card
+2024-12-25,Electronics,South,4,174.72,698.89,Debit Card
+2024-12-25,Electronics,North,5,297.9,1489.51,Debit Card
+2024-12-26,Home & Kitchen,South,1,38.28,38.28,UPI
+2024-12-26,Books,East,3,45.32,135.97,Credit Card
+2024-12-26,Electronics,West,4,159.97,639.89,Net Banking
+2024-12-27,Sports,South,2,62.23,124.46,Debit Card
+2024-12-27,Sports,South,5,114.85,574.26,Net Banking
+2024-12-27,Electronics,East,3,211.38,634.14,Debit Card
+2024-12-27,Books,North,4,41.92,167.67,Credit Card
+2024-12-28,Sports,East,1,132.48,132.48,Credit Card
+2024-12-28,Books,West,3,17.3,51.91,Debit Card
+2024-12-28,Electronics,North,3,275.55,826.66,Credit Card
+2024-12-28,Electronics,East,5,451.77,2258.87,Credit Card
+2024-12-28,Books,North,2,15.06,30.12,Net Banking
+2024-12-28,Books,West,5,43.65,218.24,Credit Card
+2024-12-29,Clothing,West,2,26.24,52.49,Net Banking
+2024-12-29,Sports,East,1,147.82,147.82,UPI
+2024-12-29,Books,West,4,17.45,69.81,Credit Card
+2024-12-30,Clothing,South,3,83.08,249.25,Net Banking
+2024-12-30,Electronics,East,1,405.55,405.55,Debit Card
+2024-12-30,Sports,East,4,46.54,186.16,Debit Card
+2024-12-30,Books,South,5,11.43,57.13,Net Banking
